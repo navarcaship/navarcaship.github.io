@@ -137,5 +137,5 @@ const out = {
   count: vessels.length,
   vessels
 };
-writeFileSync("data.json", JSON.stringify(out, null, 1));
-console.log(`Wrote data.json — ${vessels.length} unique vessels across ${QUERIES.length} queries`);
+writeFileSync("data/vessels.json", JSON.stringify(out, null, 1));
+console.log(`Wrote data/vessels.json — ${vessels.length} unique vessels across ${QUERIES.length} queries`);

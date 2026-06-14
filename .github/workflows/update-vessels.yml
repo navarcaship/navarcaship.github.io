@@ -27,10 +27,10 @@ jobs:
           VESSELAPI_KEY: ${{ secrets.VESSELAPI_KEY }}
         run: node scripts/fetch-vessels.mjs
 
-      - name: Commit data.json if changed
+      - name: Commit vessel data if changed
         run: |
           git config user.name "ais-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data.json
+          git add data/vessels.json
           git diff --cached --quiet || git commit -m "Update AIS data [skip ci]"
           git push
