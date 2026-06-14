@@ -18,6 +18,7 @@ a{color:inherit;text-decoration:none}
 a:hover{color:#335fb8}
 
 .stage{
+  position:relative;
   min-height:100vh;min-height:100dvh;
   max-width:1080px;margin:0 auto;
   display:flex;flex-direction:column;justify-content:space-between;
@@ -65,3 +66,50 @@ a:hover{color:#335fb8}
   .contact{gap:20px}
   .emblem{padding:24px 0}
 }
+
+/* live AIS telemetry strip (right margin, large screens only) */
+.telemetry{
+  position:absolute;right:clamp(26px,4.5vw,54px);top:20%;bottom:16%;width:300px;
+  overflow:hidden;pointer-events:none;z-index:1;display:none;
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  -webkit-mask-image:linear-gradient(transparent,#000 16%,#000 84%,transparent);
+  mask-image:linear-gradient(transparent,#000 16%,#000 84%,transparent);
+}
+.telemetry.on{display:block}
+.telemetry .edge{position:absolute;top:0;bottom:0;left:6px;display:flex;align-items:center}
+.telemetry .edge span{
+  writing-mode:vertical-rl;text-orientation:mixed;transform:rotate(180deg);
+  font-size:9.5px;letter-spacing:.3em;text-transform:uppercase;color:#bcc4d2;
+}
+.telemetry .track{
+  position:absolute;left:26px;right:0;
+  display:flex;flex-direction:column;gap:15px;text-align:left;
+  animation:tscroll linear infinite;will-change:transform;
+}
+.telemetry .tg{margin-bottom:2px;white-space:nowrap}
+.telemetry .tg .nm{font-size:10.5px;letter-spacing:.03em;color:#46587a}
+.telemetry .tg .mt{font-size:9.5px;color:#9aa7ba;margin-top:1px}
+@keyframes tscroll{from{transform:translateY(0)}to{transform:translateY(-50%)}}
+@media(max-width:699px){.telemetry.on{display:none}}
+
+/* horizontal two-row ticker (phones) */
+.ticker{
+  display:none;margin-top:20px;padding-top:16px;
+  border-top:1px solid var(--line);
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+.ticker .trows{
+  overflow:hidden;
+  -webkit-mask-image:linear-gradient(90deg,transparent,#000 7%,#000 93%,transparent);
+  mask-image:linear-gradient(90deg,transparent,#000 7%,#000 93%,transparent);
+}
+.ticker .trow{
+  display:flex;width:max-content;white-space:nowrap;gap:30px;
+  animation:xscroll linear infinite;will-change:transform;
+}
+.ticker .trow.rev{animation-direction:reverse;margin-top:9px}
+.ticker .ti{font-size:11px;color:#9aa7ba;letter-spacing:.02em}
+.ticker .ti b{color:#46587a;font-weight:500;letter-spacing:.05em;margin-right:7px}
+.ticker .tickhead{font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:#bcc4d2;margin-bottom:10px}
+@keyframes xscroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media(max-width:699px){.ticker.on{display:block}}

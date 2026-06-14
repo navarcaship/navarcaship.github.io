@@ -1,0 +1,271 @@
+{
+ "location": "United Arab Emirates",
+ "updated": "2026-06-14T11:32:47.946Z",
+ "count": 24,
+ "vessels": [
+  {
+   "mmsi": 373163000,
+   "name": "MCS COROMELL",
+   "imo": 9694177,
+   "flag": "🇵🇦",
+   "lat": 25.7132,
+   "lon": 55.8008,
+   "sog": 50.5,
+   "heading": null,
+   "status": ""
+  },
+  {
+   "mmsi": 603917000,
+   "name": "ETNA",
+   "imo": null,
+   "flag": "🇦🇴",
+   "lat": 25.5563,
+   "lon": 56.8445,
+   "sog": 12.199999809265137,
+   "heading": null,
+   "status": ""
+  },
+  {
+   "mmsi": 471058000,
+   "name": "AL DHAFRA",
+   "imo": 9299381,
+   "flag": "🇦🇪",
+   "lat": 24.6062,
+   "lon": 54.4876,
+   "sog": 11.899999618530273,
+   "heading": null,
+   "status": ""
+  },
+  {
+   "mmsi": 352001733,
+   "name": "MDL KAMRAN",
+   "imo": 9189770,
+   "flag": "🇵🇦",
+   "lat": 25.4637,
+   "lon": 56.9732,
+   "sog": 11.600000381469727,
+   "heading": 196,
+   "status": ""
+  },
+  {
+   "mmsi": 470634000,
+   "name": "DELMA 8",
+   "imo": 9226683,
+   "flag": "🇦🇪",
+   "lat": 24.2588,
+   "lon": 52.6114,
+   "sog": 9.899999618530273,
+   "heading": null,
+   "status": ""
+  },
+  {
+   "mmsi": 470311000,
+   "name": "DAS-1",
+   "imo": 9817432,
+   "flag": "🇦🇪",
+   "lat": 24.805,
+   "lon": 54.6776,
+   "sog": 7.9,
+   "heading": null,
+   "status": ""
+  },
+  {
+   "mmsi": 470885000,
+   "name": "ADNOC A11",
+   "imo": 9746762,
+   "flag": "🇦🇪",
+   "lat": 24.7367,
+   "lon": 54.114,
+   "sog": 7.3,
+   "heading": 139,
+   "status": "UNDERWAY"
+  },
+  {
+   "mmsi": 471108000,
+   "name": "ADNOC A12",
+   "imo": 9728045,
+   "flag": "🇦🇪",
+   "lat": 24.9168,
+   "lon": 52.531,
+   "sog": 7.199999809265137,
+   "heading": 286,
+   "status": ""
+  },
+  {
+   "mmsi": 470696000,
+   "name": "ZAKHIR",
+   "imo": 9772187,
+   "flag": "🇦🇪",
+   "lat": 24.9618,
+   "lon": 53.9764,
+   "sog": 7.199999809265137,
+   "heading": 137,
+   "status": ""
+  },
+  {
+   "mmsi": 470915000,
+   "name": "GAFF",
+   "imo": 1038755,
+   "flag": "🇦🇪",
+   "lat": 24.8912,
+   "lon": 53.0967,
+   "sog": 7.1,
+   "heading": 329,
+   "status": "SAILING"
+  },
+  {
+   "mmsi": 471059000,
+   "name": "AWAFI",
+   "imo": null,
+   "flag": "🇦🇪",
+   "lat": 24.5281,
+   "lon": 54.3813,
+   "sog": 6.5,
+   "heading": null,
+   "status": ""
+  },
+  {
+   "mmsi": 341004002,
+   "name": "SAFEENAT 07",
+   "imo": 9467495,
+   "flag": "🇰🇳",
+   "lat": 24.5339,
+   "lon": 52.9681,
+   "sog": 4.900000095367432,
+   "heading": null,
+   "status": ""
+  },
+  {
+   "mmsi": 470468000,
+   "name": "ADNOC 1010",
+   "imo": 9628398,
+   "flag": "🇦🇪",
+   "lat": 24.6019,
+   "lon": 52.9784,
+   "sog": 3.4,
+   "heading": 113,
+   "status": "UNDERWAY"
+  },
+  {
+   "mmsi": 470234000,
+   "name": "AL ADHAM",
+   "imo": 9560572,
+   "flag": "🇦🇪",
+   "lat": 24.6268,
+   "lon": 54.3993,
+   "sog": 2.0999999046325684,
+   "heading": 235,
+   "status": ""
+  },
+  {
+   "mmsi": 356444000,
+   "name": "NEW LOTUS",
+   "imo": 9166663,
+   "flag": "🇵🇦",
+   "lat": 25.5383,
+   "lon": 56.8101,
+   "sog": 1.2000000476837158,
+   "heading": 347,
+   "status": ""
+  },
+  {
+   "mmsi": 376453000,
+   "name": "SEA PRINCESS",
+   "imo": 9628025,
+   "flag": "🇻🇨",
+   "lat": 24.8768,
+   "lon": 53.6198,
+   "sog": 1.1,
+   "heading": 81,
+   "status": "UNDERWAY"
+  },
+  {
+   "mmsi": 334963000,
+   "name": "ZHONG FA",
+   "imo": 9054573,
+   "flag": "🇭🇳",
+   "lat": 25.2645,
+   "lon": 56.8424,
+   "sog": 1,
+   "heading": 11,
+   "status": ""
+  },
+  {
+   "mmsi": 470160000,
+   "name": "SHEWELEH",
+   "imo": 9785299,
+   "flag": "🇦🇪",
+   "lat": 24.5522,
+   "lon": 54.6267,
+   "sog": 0.8999999761581421,
+   "heading": 329,
+   "status": ""
+  },
+  {
+   "mmsi": 636025028,
+   "name": "AMS HAWK",
+   "imo": 9543160,
+   "flag": "🇱🇷",
+   "lat": 24.8988,
+   "lon": 52.5493,
+   "sog": 0.8999999761581421,
+   "heading": 53,
+   "status": ""
+  },
+  {
+   "mmsi": 232056379,
+   "name": "MCS HEATHER 2",
+   "imo": 9971056,
+   "flag": "🇬🇧",
+   "lat": 25.7123,
+   "lon": 55.7994,
+   "sog": 0.800000011920929,
+   "heading": 297,
+   "status": ""
+  },
+  {
+   "mmsi": 470727000,
+   "name": "ADNOC 252",
+   "imo": 9641558,
+   "flag": "🇦🇪",
+   "lat": 24.8339,
+   "lon": 53.6131,
+   "sog": 0.7,
+   "heading": 231,
+   "status": "UNDERWAY"
+  },
+  {
+   "mmsi": 470600000,
+   "name": "REMAH",
+   "imo": 9235775,
+   "flag": "🇦🇪",
+   "lat": 24.6723,
+   "lon": 54.5199,
+   "sog": 0.5,
+   "heading": null,
+   "status": ""
+  },
+  {
+   "mmsi": 352960000,
+   "name": "ERICA",
+   "imo": 9261798,
+   "flag": "🇵🇦",
+   "lat": 25.4436,
+   "lon": 56.7321,
+   "sog": 0.5,
+   "heading": 219,
+   "status": ""
+  },
+  {
+   "mmsi": 620800064,
+   "name": "VELIX",
+   "imo": 9554822,
+   "flag": "🇰🇲",
+   "lat": 25.7595,
+   "lon": 56.9332,
+   "sog": 0.5,
+   "heading": 152,
+   "status": ""
+  }
+ ]
+}

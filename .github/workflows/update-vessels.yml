@@ -1,0 +1,36 @@
+name: Update vessel data
+
+on:
+  schedule:
+    - cron: "0 6 * * *"      # once daily 06:00 UTC (2 queries/run ≈ 60 calls/month, well under the 150 free quota)
+  workflow_dispatch:          # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ais-update
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch vessel snapshot
+        env:
+          VESSELAPI_KEY: ${{ secrets.VESSELAPI_KEY }}
+        run: node scripts/fetch-vessels.mjs
+
+      - name: Commit data.json if changed
+        run: |
+          git config user.name "ais-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "Update AIS data [skip ci]"
+          git push

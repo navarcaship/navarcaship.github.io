@@ -24,13 +24,66 @@
       <p class="etym">Marine operations, chartering &amp; brokerage.</p>
     </div>
 
+    <div class="ticker" id="tick" aria-hidden="true">
+      <div class="tickhead"></div>
+      <div class="trows">
+        <div class="trow"></div>
+        <div class="trow rev"></div>
+      </div>
+    </div>
+
     <div class="foot">
       <div class="contact">
         <div><span>Email</span><a href="mailto:contact@navarca.ae">contact@navarca.ae</a></div>
       </div>
       <div class="name">Navarca Ship Management LLC</div>
     </div>
+    <aside class="telemetry" id="tele" aria-hidden="true">
+    <div class="track"></div>
+    <div class="edge"><span>Live AIS</span></div>
+  </aside>
 
   </div>
+
+  
+
+  <script>
+  (async () => {
+    const tele = document.getElementById('tele');
+    const tick = document.getElementById('tick');
+    const esc = x => String(x).replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+    const f2 = n => Math.abs(n).toFixed(2);
+    const coords = s => `${f2(s.lat)}°${s.lat>=0?'N':'S'} ${f2(s.lon)}°${s.lon>=0?'E':'W'}`;
+    const dyn = s => { const b=[]; if(s.status)b.push(s.status); b.push((+s.sog).toFixed(1)+' kn'); if(s.heading!=null)b.push(String(Math.round(s.heading)).padStart(3,'0')+'°'); return b.join(' · '); };
+    const title = s => `${s.flag?s.flag+' ':''}${esc(s.name)}${s.imo?` (IMO ${s.imo})`:''}`;
+    try {
+      const r = await fetch('data.json?t=' + Date.now(), { cache: 'no-store' });
+      if (!r.ok) return;
+      const d = await r.json();
+      const v = (d.vessels || []).filter(x => x.name);
+      if (v.length < 4) return;
+
+      // vertical strip (tablet / desktop)
+      const block = s => `<div class="tg"><div class="nm">${title(s)}</div><div class="mt">${coords(s)}</div><div class="mt">${dyn(s)}</div></div>`;
+      const col = v.map(block).join('');
+      const track = tele.querySelector('.track');
+      track.innerHTML = col + col;                    // duplicate for seamless loop
+      track.style.animationDuration = (v.length * 4.5) + 's';
+      tele.querySelector('.edge span').textContent = 'Live AIS — ' + (d.location || '');
+      tele.classList.add('on');
+
+      // horizontal two-row ticker (phones)
+      const chip = s => `<span class="ti">${s.flag?s.flag+' ':''}<b>${esc(s.name)}</b>${s.imo?` (IMO ${s.imo})`:''} · ${coords(s)} · ${dyn(s)}</span>`;
+      tick.querySelector('.tickhead').textContent = 'Live AIS — ' + (d.location || '');
+      const mid = Math.ceil(v.length / 2);
+      const a = v.slice(0, mid), b = v.slice(mid);
+      const rows = tick.querySelectorAll('.trow');
+      const ca = a.map(chip).join(''), cb = b.map(chip).join('');
+      rows[0].innerHTML = ca + ca; rows[0].style.animationDuration = (a.length * 8) + 's';
+      rows[1].innerHTML = cb + cb; rows[1].style.animationDuration = (Math.max(b.length,1) * 8) + 's';
+      tick.classList.add('on');
+    } catch (e) { /* no feed: stays hidden */ }
+  })();
+  </script>
 </body>
 </html>
