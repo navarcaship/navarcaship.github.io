@@ -69,6 +69,14 @@ a:hover{color:#335fb8}
   .emblem{padding:24px 0}
 }
 
+/* centre the nameplate on phones / narrow windows */
+@media(max-width:640px){
+  .meta{justify-content:center}
+  .emblem{align-items:center;text-align:center}
+  .emblem img{margin-left:0}
+  .foot{flex-direction:column;align-items:center;text-align:center;gap:12px}
+}
+
 /* live AIS telemetry strip (right margin, large screens only) */
 .telemetry{
   position:absolute;right:clamp(26px,4.5vw,54px);top:20%;bottom:16%;width:300px;
