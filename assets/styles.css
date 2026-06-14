@@ -121,6 +121,6 @@ a:hover{color:#335fb8}
 .ticker .trow.rev{animation-direction:reverse;margin-top:9px}
 .ticker .ti{font-size:11px;color:#9aa7ba;letter-spacing:.02em}
 .ticker .ti b{color:#46587a;font-weight:500;letter-spacing:.05em;margin-right:7px}
-.ticker .tickhead{font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:#bcc4d2;margin-bottom:10px}
+.ticker .tickhead{font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:#bcc4d2;margin-bottom:10px;text-align:center}
 @keyframes xscroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 @media(max-width:699px){.ticker.on{display:block}}
