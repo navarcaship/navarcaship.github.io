@@ -18,7 +18,7 @@ if (!KEY) { console.error("Missing VESSELAPI_KEY"); process.exit(1); }
 const LOCATION = "United Arab Emirates";
 const BOX    = "https://api.vesselapi.com/v1/location/vessels/bounding-box";
 const RADIUS = "https://api.vesselapi.com/v1/location/vessels/radius";
-const MAX_VESSELS = 24;
+const MAX_VESSELS = 100;   // show ~the whole fetch (2 queries × up to 50, deduped) — a long, varied loop
 
 const QUERIES = [
   { label: "Western Gulf · Ruwais / Abu Dhabi / Jebel Ali", type: "box",
@@ -129,12 +129,15 @@ for (const q of QUERIES) {
 }
 
 const now = new Date().toISOString();
-const all = [...byMmsi.values()]
-  .map(({ t, ...v }) => v)                                   // drop internal timestamp
-  .sort((a, b) => (b.sog || 0) - (a.sog || 0));
+const all = [...byMmsi.values()].map(({ t, ...v }) => v);   // full deduped set, drop internal timestamp
 
-// ---- 1) Live ticker feed — top N by speed, unchanged behaviour ----------------
-const ticker = all.slice(0, MAX_VESSELS);
+// ---- 1) Live ticker feed ------------------------------------------------------
+// Show as much of the fetch as we can (idle vessels included): the point is to
+// reflect real UAE traffic. A long list also keeps the scroll loop from visibly
+// repeating, which would make the live feed look like canned data. Shuffled so
+// movers and anchored vessels interleave rather than clump, and so the running
+// order refreshes each day.
+const ticker = shuffle(all).slice(0, MAX_VESSELS);
 writeFileSync("data/vessels.json", JSON.stringify({
   location: LOCATION, updated: now, count: ticker.length, vessels: ticker
 }, null, 1));
@@ -200,6 +203,16 @@ function updateDatabase(vessels, ts) {
   appendFileSync("data/history.ndjson", lines);
 
   console.log(`  Database: ${list.length} unique vessels on record (+${added} new); ${vessels.length} observations logged.`);
+}
+
+// Fisher–Yates shuffle (returns a new array; original order is API-ranked)
+function shuffle(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
 }
 
 function toCsv(list) {
