@@ -10,7 +10,7 @@
 // Flag is derived from the MMSI's first 3 digits (the ITU "MID"), so it needs
 // no extra API call. IMO, nav_status, heading and position come from each query.
 
-import { writeFileSync } from "node:fs";
+import { writeFileSync, readFileSync, appendFileSync, existsSync } from "node:fs";
 
 const KEY = process.env.VESSELAPI_KEY;
 if (!KEY) { console.error("Missing VESSELAPI_KEY"); process.exit(1); }
@@ -128,14 +128,87 @@ for (const q of QUERIES) {
   console.error(`  ${q.label}: ${n} vessels`);
 }
 
-let vessels = [...byMmsi.values()].sort((a, b) => (b.sog || 0) - (a.sog || 0));
-vessels = vessels.slice(0, MAX_VESSELS).map(({ t, ...v }) => v);  // drop internal timestamp
+const now = new Date().toISOString();
+const all = [...byMmsi.values()]
+  .map(({ t, ...v }) => v)                                   // drop internal timestamp
+  .sort((a, b) => (b.sog || 0) - (a.sog || 0));
 
-const out = {
-  location: LOCATION,
-  updated: new Date().toISOString(),
-  count: vessels.length,
-  vessels
-};
-writeFileSync("data/vessels.json", JSON.stringify(out, null, 1));
-console.log(`Wrote data/vessels.json — ${vessels.length} unique vessels across ${QUERIES.length} queries`);
+// ---- 1) Live ticker feed — top N by speed, unchanged behaviour ----------------
+const ticker = all.slice(0, MAX_VESSELS);
+writeFileSync("data/vessels.json", JSON.stringify({
+  location: LOCATION, updated: now, count: ticker.length, vessels: ticker
+}, null, 1));
+
+// ---- 2) Cumulative database — roster (fleet.json/.csv) + history (NDJSON) ------
+updateDatabase(all, now);
+
+console.log(`Wrote data/vessels.json — ${ticker.length} of ${all.length} tracked vessels (ticker).`);
+
+// =============================================================================
+// Cumulative vessel database
+//   data/fleet.json   — roster: one upserted record per unique MMSI
+//   data/fleet.csv    — same roster, spreadsheet-friendly (UTF-8 BOM for Excel)
+//   data/history.ndjson — append-only log: one JSON line per vessel per run
+// The live ticker (vessels.json) is untouched; this just accumulates alongside it.
+// =============================================================================
+function updateDatabase(vessels, ts) {
+  const ROSTER = "data/fleet.json";
+
+  // load existing roster, keyed by MMSI
+  const roster = new Map();
+  if (existsSync(ROSTER)) {
+    try {
+      for (const v of (JSON.parse(readFileSync(ROSTER, "utf8")).vessels || [])) roster.set(v.mmsi, v);
+    } catch (e) { console.error("  Could not parse fleet.json, starting fresh:", e.message); }
+  }
+
+  // upsert each vessel seen this run
+  let added = 0;
+  for (const v of vessels) {
+    const r = roster.get(v.mmsi);
+    if (r) {
+      r.lastSeen = ts;
+      r.timesSeen += 1;
+      if (v.name && !r.names.includes(v.name)) r.names.push(v.name);   // catch renames / AIS typos
+      if (v.name) r.name = v.name;
+      if (v.imo)  r.imo  = v.imo;
+      if (v.flag) r.flag = v.flag;
+      r.lastLat = v.lat; r.lastLon = v.lon;
+      r.lastSog = v.sog; r.lastHeading = v.heading; r.lastStatus = v.status;
+    } else {
+      roster.set(v.mmsi, {
+        mmsi: v.mmsi, name: v.name, names: v.name ? [v.name] : [],
+        imo: v.imo, flag: v.flag,
+        firstSeen: ts, lastSeen: ts, timesSeen: 1,
+        lastLat: v.lat, lastLon: v.lon, lastSog: v.sog,
+        lastHeading: v.heading, lastStatus: v.status
+      });
+      added++;
+    }
+  }
+
+  const list = [...roster.values()]
+    .sort((a, b) => b.lastSeen.localeCompare(a.lastSeen) || (a.name || "").localeCompare(b.name || ""));
+  writeFileSync(ROSTER, JSON.stringify({ updated: ts, count: list.length, vessels: list }, null, 1));
+  writeFileSync("data/fleet.csv", toCsv(list));
+
+  // append this run's snapshot to the history log
+  const lines = vessels.map(v => JSON.stringify({
+    ts, mmsi: v.mmsi, name: v.name, imo: v.imo, flag: v.flag,
+    lat: v.lat, lon: v.lon, sog: v.sog, heading: v.heading, status: v.status
+  })).join("\n") + "\n";
+  appendFileSync("data/history.ndjson", lines);
+
+  console.log(`  Database: ${list.length} unique vessels on record (+${added} new); ${vessels.length} observations logged.`);
+}
+
+function toCsv(list) {
+  const cols = ["mmsi","name","names","imo","flag","firstSeen","lastSeen","timesSeen",
+                "lastLat","lastLon","lastSog","lastHeading","lastStatus"];
+  const esc = s => {
+    s = s == null ? "" : String(s);
+    return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+  };
+  const rows = list.map(v => cols.map(c => esc(c === "names" ? v.names.join("; ") : v[c])).join(","));
+  return "﻿" + [cols.join(","), ...rows].join("\n") + "\n";   // BOM so Excel reads UTF-8/emoji
+}

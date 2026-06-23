@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "ais-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/vessels.json
-          git diff --cached --quiet || git commit -m "Update AIS data [skip ci]"
+          git add data/vessels.json data/fleet.json data/fleet.csv data/history.ndjson
+          git diff --cached --quiet || git commit -m "Update AIS data + vessel database [skip ci]"
           git push

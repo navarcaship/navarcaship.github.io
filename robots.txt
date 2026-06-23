@@ -1,8 +1,9 @@
 # robots.txt — Navarca Ship Management (https://navarca.ae)
 
-# Default: allow everything
+# Default: allow everything except the raw vessel data files
 User-agent: *
 Allow: /
+Disallow: /data/
 
 # --- AI assistants & answer engines (explicitly allowed) ---
 # OpenAI / ChatGPT
