@@ -1,4 +1,4 @@
-// Fetches a live vessel snapshot around the UAE from VesselAPI and writes data.json.
+// Fetches a live vessel snapshot around the UAE from VesselAPI and writes data/vessels.json.
 // Run by GitHub Actions on a schedule. Key comes from env (never commit it).
 //
 // Coverage uses two query types (VesselAPI allows both):

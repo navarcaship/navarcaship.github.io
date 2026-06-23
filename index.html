@@ -33,8 +33,14 @@
 <meta property="og:url" content="https://navarca.ae/" />
 <meta property="og:locale" content="en_AE" />
 <meta property="og:image" content="https://navarca.ae/assets/images/og-image.png" />
+<meta property="og:image:type" content="image/png" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="Navarca Ship Management — Abu Dhabi, United Arab Emirates" />
+<meta property="og:image" content="https://navarca.ae/assets/images/og-image-square.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="1200" />
 <meta property="og:image:alt" content="Navarca Ship Management — Abu Dhabi, United Arab Emirates" />
 
 <!-- Twitter / X -->
@@ -42,11 +48,13 @@
 <meta name="twitter:title" content="Navarca Ship Management — Vessel Chartering & Brokerage in the Arabian Gulf" />
 <meta name="twitter:description" content="Abu Dhabi vessel operator: chartering, brokerage and marine operations across the Arabian Gulf." />
 <meta name="twitter:image" content="https://navarca.ae/assets/images/og-image.png" />
+<meta name="twitter:image:alt" content="Navarca Ship Management — Abu Dhabi, United Arab Emirates" />
 
 <meta name="theme-color" content="#0b1d2a" />
 <meta name="author" content="Navarca Ship Management LLC" />
 
-<link rel="icon" type="image/png" href="assets/images/favicon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon.png" />
+<link rel="apple-touch-icon" href="assets/images/og-image-square.png" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet" />
@@ -67,6 +75,13 @@
       "logo": "https://navarca.ae/assets/images/logo.png",
       "image": "https://navarca.ae/assets/images/og-image.png",
       "email": "contact@navarca.ae",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Chartering & Brokerage",
+        "email": "contact@navarca.ae",
+        "areaServed": "AE",
+        "availableLanguage": ["en", "ar"]
+      },
       "foundingDate": "2025-05-03",
       "description": "Navarca Ship Management LLC is an Abu Dhabi-based vessel operator and charterer serving the offshore energy, marine logistics and coastal project sectors across the Arabian Gulf. Navarca charters, brokers and operates landing craft, offshore support vessels and other tonnage — owned or chartered, fully crewed and technically maintained — ready for deployment.",
       "slogan": "Marine operations, chartering & brokerage.",
@@ -136,7 +151,7 @@
 </script>
 </head>
 <body>
-  <div class="stage">
+  <main class="stage">
 
     <div class="meta">
       <div class="tag">Abu Dhabi · United Arab Emirates</div>
@@ -144,7 +159,7 @@
 
     <div class="emblem">
       <img src="assets/images/logo.png" alt="Navarca Ship Management logo" />
-      <div class="wordmark">Navarca</div>
+      <h1 class="wordmark">Navarca</h1>
       <p class="etym">Marine operations, chartering &amp; brokerage.</p>
     </div>
 
@@ -167,7 +182,7 @@
     <div class="edge"><span>Live AIS</span></div>
   </aside>
 
-  </div>
+  </main>
 
   <script>
   (async () => {
