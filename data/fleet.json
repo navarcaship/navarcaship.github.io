@@ -1,7 +1,806 @@
 {
- "updated": "2026-06-23T09:37:06.289Z",
- "count": 38,
+ "updated": "2026-06-24T09:28:01.703Z",
+ "count": 76,
  "vessels": [
+  {
+   "mmsi": 470457000,
+   "name": "ADNOC 250",
+   "names": [
+    "ADNOC 250"
+   ],
+   "imo": 9612832,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.8457,
+   "lastLon": 53.5108,
+   "lastSog": 6.8,
+   "lastHeading": null,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 470329000,
+   "name": "ADNOC 712",
+   "names": [
+    "ADNOC 712"
+   ],
+   "imo": 9585302,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.4707,
+   "lastLon": 55.5073,
+   "lastSog": 0,
+   "lastHeading": 33,
+   "lastStatus": "SAILING"
+  },
+  {
+   "mmsi": 471991000,
+   "name": "ADNOC A15",
+   "names": [
+    "ADNOC A15"
+   ],
+   "imo": 9753090,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.6385,
+   "lastLon": 54.2171,
+   "lastSog": 9.3,
+   "lastHeading": 149,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 470152000,
+   "name": "ADNOC MP02",
+   "names": [
+    "ADNOC MP02"
+   ],
+   "imo": 9754329,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 2,
+   "lastLat": 24.8567,
+   "lastLon": 53.6487,
+   "lastSog": 0,
+   "lastHeading": 313,
+   "lastStatus": "RESTRICTED"
+  },
+  {
+   "mmsi": 471888000,
+   "name": "AL MARMAR",
+   "names": [
+    "AL MARMAR"
+   ],
+   "imo": 9698513,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 2,
+   "lastLat": 24.5844,
+   "lastLon": 54.1531,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": ""
+  },
+  {
+   "mmsi": 471130000,
+   "name": "ALGHANDI",
+   "names": [
+    "ALGHANDI"
+   ],
+   "imo": 1120716,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.5657,
+   "lastLon": 55.5672,
+   "lastSog": 5.6,
+   "lastHeading": null,
+   "lastStatus": ""
+  },
+  {
+   "mmsi": 376349000,
+   "name": "ALLIANZ CHLOE",
+   "names": [
+    "ALLIANZ CHLOE"
+   ],
+   "imo": 9408906,
+   "flag": "🇻🇨",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.8491,
+   "lastLon": 53.4461,
+   "lastSog": 0,
+   "lastHeading": 95,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 636023299,
+   "name": "ALMARJAN",
+   "names": [
+    "ALMARJAN"
+   ],
+   "imo": 9770232,
+   "flag": "🇱🇷",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.5269,
+   "lastLon": 53.8253,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 352005019,
+   "name": "ALSILS",
+   "names": [
+    "ALSILS"
+   ],
+   "imo": 9218284,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.9746,
+   "lastLon": 56.0511,
+   "lastSog": 0,
+   "lastHeading": 275,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 351143000,
+   "name": "ARD HORIZON",
+   "names": [
+    "ARD HORIZON"
+   ],
+   "imo": 9229233,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.7268,
+   "lastLon": 54.2197,
+   "lastSog": 0.2,
+   "lastHeading": null,
+   "lastStatus": "AT ANCHOR"
+  },
+  {
+   "mmsi": 245810000,
+   "name": "ATHENA",
+   "names": [
+    "ATHENA"
+   ],
+   "imo": 9548603,
+   "flag": "🇳🇱",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.9541,
+   "lastLon": 56.057,
+   "lastSog": 0,
+   "lastHeading": 345,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 671942000,
+   "name": "ATLAS GARNET",
+   "names": [
+    "ATLAS GARNET"
+   ],
+   "imo": 9333321,
+   "flag": "🇹🇬",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.5066,
+   "lastLon": 53.7022,
+   "lastSog": 0,
+   "lastHeading": 80,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 257933000,
+   "name": "BELRAY",
+   "names": [
+    "BELRAY"
+   ],
+   "imo": 9873266,
+   "flag": "🇳🇴",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.3671,
+   "lastLon": 55.3752,
+   "lastSog": 0.1,
+   "lastHeading": 59,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 471206000,
+   "name": "BU TINAH II",
+   "names": [
+    "BU TINAH II"
+   ],
+   "imo": 9985174,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 2,
+   "lastLat": 24.7965,
+   "lastLon": 54.6523,
+   "lastSog": 0.2,
+   "lastHeading": 47,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 511101625,
+   "name": "CHEMTRANS",
+   "names": [
+    "CHEMTRANS"
+   ],
+   "imo": 9211664,
+   "flag": "🇵🇼",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.472,
+   "lastLon": 55.4942,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 470693000,
+   "name": "DANA",
+   "names": [
+    "DANA"
+   ],
+   "imo": 9749178,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.5556,
+   "lastLon": 54.126,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 470311000,
+   "name": "DAS-1",
+   "names": [
+    "DAS-1"
+   ],
+   "imo": 9817432,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 2,
+   "lastLat": 24.7963,
+   "lastLon": 54.6526,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": ""
+  },
+  {
+   "mmsi": 352005665,
+   "name": "DEEPBLUE",
+   "names": [
+    "DEEPBLUE"
+   ],
+   "imo": 9350862,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.6711,
+   "lastLon": 55.1255,
+   "lastSog": 0,
+   "lastHeading": 347,
+   "lastStatus": "AT ANCHOR"
+  },
+  {
+   "mmsi": 209258000,
+   "name": "DUBAI FORTUNE",
+   "names": [
+    "DUBAI FORTUNE"
+   ],
+   "imo": 9040120,
+   "flag": "🇨🇾",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.8875,
+   "lastLon": 55.8434,
+   "lastSog": 9.5,
+   "lastHeading": 303,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 511100167,
+   "name": "EAGLE",
+   "names": [
+    "EAGLE"
+   ],
+   "imo": 9486104,
+   "flag": "🇵🇼",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.6878,
+   "lastLon": 54.1164,
+   "lastSog": 4.8,
+   "lastHeading": 87,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 352005197,
+   "name": "EKOUO",
+   "names": [
+    "EKOUO"
+   ],
+   "imo": 9250309,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.9759,
+   "lastLon": 56.0554,
+   "lastSog": 0,
+   "lastHeading": 218,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 376268000,
+   "name": "FALCON",
+   "names": [
+    "FALCON"
+   ],
+   "imo": 9654115,
+   "flag": "🇻🇨",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.979,
+   "lastLon": 56.053,
+   "lastSog": 0.1,
+   "lastHeading": null,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 470624000,
+   "name": "GHASHA",
+   "names": [
+    "GHASHA"
+   ],
+   "imo": 9880958,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.7459,
+   "lastLon": 54.5594,
+   "lastSog": 0,
+   "lastHeading": 134,
+   "lastStatus": "RESTRICTED"
+  },
+  {
+   "mmsi": 351319000,
+   "name": "GMS SHAMAL 5601",
+   "names": [
+    "GMS SHAMAL 5601"
+   ],
+   "imo": 9740562,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.4953,
+   "lastLon": 54.0536,
+   "lastSog": 0.1,
+   "lastHeading": 47,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 471235000,
+   "name": "HAFEET",
+   "names": [
+    "HAFEET"
+   ],
+   "imo": 9015591,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.7219,
+   "lastLon": 54.1445,
+   "lastSog": 0.1,
+   "lastHeading": 295,
+   "lastStatus": "AT ANCHOR"
+  },
+  {
+   "mmsi": 470940000,
+   "name": "JAYWUN",
+   "names": [
+    "JAYWUN"
+   ],
+   "imo": 9930416,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.6131,
+   "lastLon": 54.3871,
+   "lastSog": 5.1,
+   "lastHeading": 258,
+   "lastStatus": "RESTRICTED"
+  },
+  {
+   "mmsi": 470735000,
+   "name": "KESTREL",
+   "names": [
+    "KESTREL"
+   ],
+   "imo": 9647447,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.9789,
+   "lastLon": 56.0526,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 471133000,
+   "name": "MARCAP 1",
+   "names": [
+    "MARCAP 1"
+   ],
+   "imo": null,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.9232,
+   "lastLon": 53.4394,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 671445100,
+   "name": "MT OCEAN LILY",
+   "names": [
+    "MT OCEAN LILY"
+   ],
+   "imo": 1068877,
+   "flag": "🇹🇬",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.7924,
+   "lastLon": 55.6834,
+   "lastSog": 6.1,
+   "lastHeading": 235,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 470321000,
+   "name": "MUTAWA 13",
+   "names": [
+    "MUTAWA 13"
+   ],
+   "imo": 9625217,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.861,
+   "lastLon": 53.5457,
+   "lastSog": 0,
+   "lastHeading": 43,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 636017957,
+   "name": "MYD HANGZHOU",
+   "names": [
+    "MYD HANGZHOU"
+   ],
+   "imo": 9178276,
+   "flag": "🇱🇷",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.8099,
+   "lastLon": 54.6539,
+   "lastSog": 0,
+   "lastHeading": 230,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 471234000,
+   "name": "NASAYEM 1",
+   "names": [
+    "NASAYEM 1"
+   ],
+   "imo": 9840582,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.5131,
+   "lastLon": 52.7543,
+   "lastSog": 5,
+   "lastHeading": 272,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 636015376,
+   "name": "NOBLE MICK OBRIEN",
+   "names": [
+    "NOBLE MICK OBRIEN"
+   ],
+   "imo": 8771239,
+   "flag": "🇱🇷",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 2,
+   "lastLat": 24.808,
+   "lastLon": 54.6629,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 376823000,
+   "name": "OCEAN TRANSPORTER",
+   "names": [
+    "OCEAN TRANSPORTER"
+   ],
+   "imo": 9649380,
+   "flag": "🇻🇨",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 2,
+   "lastLat": 24.8959,
+   "lastLon": 53.8672,
+   "lastSog": 0.1,
+   "lastHeading": 9,
+   "lastStatus": "SAILING"
+  },
+  {
+   "mmsi": 374667000,
+   "name": "PILI PILI 4503",
+   "names": [
+    "PILI PILI 4503"
+   ],
+   "imo": 9776298,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 2,
+   "lastLat": 24.7653,
+   "lastLon": 53.7393,
+   "lastSog": 0,
+   "lastHeading": 36,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 566558000,
+   "name": "POSH ENTERPRISE",
+   "names": [
+    "POSH ENTERPRISE"
+   ],
+   "imo": 9722211,
+   "flag": "🇸🇬",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 2,
+   "lastLat": 24.8925,
+   "lastLon": 54.633,
+   "lastSog": 3,
+   "lastHeading": 133,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 352824000,
+   "name": "POSITIVE PIONEER",
+   "names": [
+    "POSITIVE PIONEER"
+   ],
+   "imo": 9304514,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.802,
+   "lastLon": 54.663,
+   "lastSog": 0,
+   "lastHeading": 321,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 352898675,
+   "name": "QMS GLORIA",
+   "names": [
+    "QMS GLORIA"
+   ],
+   "imo": 9609782,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 2,
+   "lastLat": 24.5166,
+   "lastLon": 54.0637,
+   "lastSog": 0,
+   "lastHeading": 42,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 352005227,
+   "name": "RAYAN",
+   "names": [
+    "RAYAN"
+   ],
+   "imo": 1089663,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.7045,
+   "lastLon": 54.6487,
+   "lastSog": 4.1,
+   "lastHeading": 236,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 403758580,
+   "name": "ROWAN MISSISSIPPI",
+   "names": [
+    "ROWAN MISSISSIPPI"
+   ],
+   "imo": 8768933,
+   "flag": "🇸🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.5652,
+   "lastLon": 55.394,
+   "lastSog": 3.1,
+   "lastHeading": null,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 636015377,
+   "name": "SD ODYSSEY",
+   "names": [
+    "SD ODYSSEY"
+   ],
+   "imo": 9623300,
+   "flag": "🇱🇷",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 25.4705,
+   "lastLon": 55.4996,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": "SAILING"
+  },
+  {
+   "mmsi": 229872000,
+   "name": "STAR PIERA",
+   "names": [
+    "STAR PIERA"
+   ],
+   "imo": 9450909,
+   "flag": "🇲🇹",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 26.6772,
+   "lastLon": 56.2812,
+   "lastSog": 11.3,
+   "lastHeading": 59,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 352002728,
+   "name": "SUHAIL",
+   "names": [
+    "SUHAIL"
+   ],
+   "imo": 9807607,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.9116,
+   "lastLon": 53.3575,
+   "lastSog": 0,
+   "lastHeading": 355,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 374260000,
+   "name": "SUKHOOR ALKHALEEJ",
+   "names": [
+    "SUKHOOR ALKHALEEJ"
+   ],
+   "imo": 9104419,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 26.0612,
+   "lastLon": 55.9609,
+   "lastSog": 0,
+   "lastHeading": 343,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 268248601,
+   "name": "VAFAA M",
+   "names": [
+    "VAFAA M"
+   ],
+   "imo": 9162409,
+   "flag": "🇸🇲",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 26.0509,
+   "lastLon": 55.9528,
+   "lastSog": 0,
+   "lastHeading": 266,
+   "lastStatus": "AT ANCHOR"
+  },
+  {
+   "mmsi": 352005916,
+   "name": "VOLCAN DE TAUCE",
+   "names": [
+    "VOLCAN DE TAUCE"
+   ],
+   "imo": 9081588,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.5907,
+   "lastLon": 54.3126,
+   "lastSog": 2.4,
+   "lastHeading": 129,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 375136000,
+   "name": "ZAKHER EAGLE",
+   "names": [
+    "ZAKHER EAGLE"
+   ],
+   "imo": 9488463,
+   "flag": "🇻🇨",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-24T09:28:01.703Z",
+   "timesSeen": 1,
+   "lastLat": 24.7549,
+   "lastLon": 53.1917,
+   "lastSog": 0.1,
+   "lastHeading": 57,
+   "lastStatus": "UNDERWAY"
+  },
   {
    "mmsi": 470011000,
    "name": "ADNOC 226",
@@ -18,23 +817,6 @@
    "lastSog": 7.1,
    "lastHeading": 330,
    "lastStatus": "UNDERWAY"
-  },
-  {
-   "mmsi": 470152000,
-   "name": "ADNOC MP02",
-   "names": [
-    "ADNOC MP02"
-   ],
-   "imo": 9754329,
-   "flag": "🇦🇪",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-23T09:37:06.289Z",
-   "timesSeen": 1,
-   "lastLat": 24.8593,
-   "lastLon": 53.6453,
-   "lastSog": 0,
-   "lastHeading": 304,
-   "lastStatus": "RESTRICTED"
   },
   {
    "mmsi": 470655000,
@@ -69,23 +851,6 @@
    "lastSog": 0.4,
    "lastHeading": 355,
    "lastStatus": "MOORED"
-  },
-  {
-   "mmsi": 471888000,
-   "name": "AL MARMAR",
-   "names": [
-    "AL MARMAR"
-   ],
-   "imo": 9698513,
-   "flag": "🇦🇪",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-23T09:37:06.289Z",
-   "timesSeen": 1,
-   "lastLat": 24.5845,
-   "lastLon": 54.1531,
-   "lastSog": 0,
-   "lastHeading": null,
-   "lastStatus": ""
   },
   {
    "mmsi": 470125000,
@@ -156,23 +921,6 @@
    "lastStatus": "MOORED"
   },
   {
-   "mmsi": 471206000,
-   "name": "BU TINAH II",
-   "names": [
-    "BU TINAH II"
-   ],
-   "imo": 9985174,
-   "flag": "🇦🇪",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-23T09:37:06.289Z",
-   "timesSeen": 1,
-   "lastLat": 24.8511,
-   "lastLon": 54.6561,
-   "lastSog": 7.7,
-   "lastHeading": 316,
-   "lastStatus": "UNDERWAY"
-  },
-  {
    "mmsi": 374448000,
    "name": "BUNUN MIRACLE",
    "names": [
@@ -205,23 +953,6 @@
    "lastSog": 0.3,
    "lastHeading": 224,
    "lastStatus": "UNDERWAY"
-  },
-  {
-   "mmsi": 470311000,
-   "name": "DAS-1",
-   "names": [
-    "DAS-1"
-   ],
-   "imo": 9817432,
-   "flag": "🇦🇪",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-23T09:37:06.289Z",
-   "timesSeen": 1,
-   "lastLat": 24.8455,
-   "lastLon": 54.6598,
-   "lastSog": 7,
-   "lastHeading": null,
-   "lastStatus": ""
   },
   {
    "mmsi": 471008764,
@@ -394,40 +1125,6 @@
    "lastStatus": "AT ANCHOR"
   },
   {
-   "mmsi": 636015376,
-   "name": "NOBLE MICK OBRIEN",
-   "names": [
-    "NOBLE MICK OBRIEN"
-   ],
-   "imo": 8771239,
-   "flag": "🇱🇷",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-23T09:37:06.289Z",
-   "timesSeen": 1,
-   "lastLat": 24.808,
-   "lastLon": 54.663,
-   "lastSog": 0,
-   "lastHeading": null,
-   "lastStatus": "MOORED"
-  },
-  {
-   "mmsi": 376823000,
-   "name": "OCEAN TRANSPORTER",
-   "names": [
-    "OCEAN TRANSPORTER"
-   ],
-   "imo": 9649380,
-   "flag": "🇻🇨",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-23T09:37:06.289Z",
-   "timesSeen": 1,
-   "lastLat": 24.687,
-   "lastLon": 53.5558,
-   "lastSog": 0.6,
-   "lastHeading": 69,
-   "lastStatus": "SAILING"
-  },
-  {
    "mmsi": 636024935,
    "name": "ORINOCCO",
    "names": [
@@ -479,40 +1176,6 @@
    "lastStatus": "AT ANCHOR"
   },
   {
-   "mmsi": 374667000,
-   "name": "PILI PILI 4503",
-   "names": [
-    "PILI PILI 4503"
-   ],
-   "imo": 9776298,
-   "flag": "🇵🇦",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-23T09:37:06.289Z",
-   "timesSeen": 1,
-   "lastLat": 24.7654,
-   "lastLon": 53.7392,
-   "lastSog": 0,
-   "lastHeading": 36,
-   "lastStatus": "MOORED"
-  },
-  {
-   "mmsi": 566558000,
-   "name": "POSH ENTERPRISE",
-   "names": [
-    "POSH ENTERPRISE"
-   ],
-   "imo": 9722211,
-   "flag": "🇸🇬",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-23T09:37:06.289Z",
-   "timesSeen": 1,
-   "lastLat": 24.9197,
-   "lastLon": 54.5584,
-   "lastSog": 0,
-   "lastHeading": 302,
-   "lastStatus": "AT ANCHOR"
-  },
-  {
    "mmsi": 620999357,
    "name": "PSL TIGER",
    "names": [
@@ -545,23 +1208,6 @@
    "lastSog": 0,
    "lastHeading": 41,
    "lastStatus": "RESTRICTED"
-  },
-  {
-   "mmsi": 352898675,
-   "name": "QMS GLORIA",
-   "names": [
-    "QMS GLORIA"
-   ],
-   "imo": 9609782,
-   "flag": "🇵🇦",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-23T09:37:06.289Z",
-   "timesSeen": 1,
-   "lastLat": 24.5166,
-   "lastLon": 54.0638,
-   "lastSog": 0.1,
-   "lastHeading": 42,
-   "lastStatus": "MOORED"
   },
   {
    "mmsi": 470022000,
