@@ -1,7 +1,262 @@
 {
- "updated": "2026-06-24T09:28:01.703Z",
- "count": 76,
+ "updated": "2026-06-25T09:20:20.919Z",
+ "count": 87,
  "vessels": [
+  {
+   "mmsi": 471198000,
+   "name": "ADNOC W01",
+   "names": [
+    "ADNOC W01"
+   ],
+   "imo": 9681340,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-25T09:20:20.919Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 1,
+   "lastLat": 24.7246,
+   "lastLon": 53.9052,
+   "lastSog": 5.8,
+   "lastHeading": 283,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 470891052,
+   "name": "AL RAFIQ",
+   "names": [
+    "AL RAFIQ"
+   ],
+   "imo": 9614012,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-25T09:20:20.919Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 1,
+   "lastLat": 24.6858,
+   "lastLon": 53.5867,
+   "lastSog": 6.4,
+   "lastHeading": 87,
+   "lastStatus": "RESTRICTED"
+  },
+  {
+   "mmsi": 470345000,
+   "name": "BATEEL",
+   "names": [
+    "BATEEL"
+   ],
+   "imo": 9740627,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-25T09:20:20.919Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 1,
+   "lastLat": 24.9073,
+   "lastLon": 53.6894,
+   "lastSog": 0,
+   "lastHeading": 26,
+   "lastStatus": ""
+  },
+  {
+   "mmsi": 511873000,
+   "name": "GEMMA",
+   "names": [
+    "GEMMA"
+   ],
+   "imo": 9509097,
+   "flag": "🇵🇼",
+   "firstSeen": "2026-06-25T09:20:20.919Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 1,
+   "lastLat": 26.5612,
+   "lastLon": 56.2315,
+   "lastSog": 9.5,
+   "lastHeading": 250,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 470624000,
+   "name": "GHASHA",
+   "names": [
+    "GHASHA"
+   ],
+   "imo": 9880958,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 2,
+   "lastLat": 24.9205,
+   "lastLon": 54.5273,
+   "lastSog": 2.2,
+   "lastHeading": 336,
+   "lastStatus": "RESTRICTED"
+  },
+  {
+   "mmsi": 470177000,
+   "name": "MUTAWA 106",
+   "names": [
+    "MUTAWA 106"
+   ],
+   "imo": 9783277,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-25T09:20:20.919Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 1,
+   "lastLat": 24.855,
+   "lastLon": 53.635,
+   "lastSog": 0.4,
+   "lastHeading": 180,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 470444000,
+   "name": "NAGWA 1",
+   "names": [
+    "NAGWA 1"
+   ],
+   "imo": 9850264,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-25T09:20:20.919Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 1,
+   "lastLat": 24.5262,
+   "lastLon": 54.5994,
+   "lastSog": 0,
+   "lastHeading": 280,
+   "lastStatus": "AT ANCHOR"
+  },
+  {
+   "mmsi": 671404100,
+   "name": "NEPTUNE",
+   "names": [
+    "NEPTUNE"
+   ],
+   "imo": 1025083,
+   "flag": "🇹🇬",
+   "firstSeen": "2026-06-25T09:20:20.919Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 1,
+   "lastLat": 25.3734,
+   "lastLon": 55.2596,
+   "lastSog": 7.2,
+   "lastHeading": 164,
+   "lastStatus": "SAILING"
+  },
+  {
+   "mmsi": 314001097,
+   "name": "NEW VENTURE",
+   "names": [
+    "NEW VENTURE"
+   ],
+   "imo": 9281580,
+   "flag": "🇧🇧",
+   "firstSeen": "2026-06-25T09:20:20.919Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 1,
+   "lastLat": 25.698,
+   "lastLon": 56.9568,
+   "lastSog": 0,
+   "lastHeading": 106,
+   "lastStatus": "AT ANCHOR"
+  },
+  {
+   "mmsi": 376823000,
+   "name": "OCEAN TRANSPORTER",
+   "names": [
+    "OCEAN TRANSPORTER"
+   ],
+   "imo": 9649380,
+   "flag": "🇻🇨",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 3,
+   "lastLat": 24.6886,
+   "lastLon": 53.5558,
+   "lastSog": 0.1,
+   "lastHeading": 302,
+   "lastStatus": "SAILING"
+  },
+  {
+   "mmsi": 352824000,
+   "name": "POSITIVE PIONEER",
+   "names": [
+    "POSITIVE PIONEER"
+   ],
+   "imo": 9304514,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 2,
+   "lastLat": 24.802,
+   "lastLon": 54.663,
+   "lastSog": 0,
+   "lastHeading": 321,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 341994000,
+   "name": "SEA SCARF 1",
+   "names": [
+    "SEA SCARF 1"
+   ],
+   "imo": 9646015,
+   "flag": "🇰🇳",
+   "firstSeen": "2026-06-25T09:20:20.919Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 1,
+   "lastLat": 24.9499,
+   "lastLon": 54.3921,
+   "lastSog": 3.6,
+   "lastHeading": null,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 611000110,
+   "name": "SIFRA",
+   "names": [
+    "SIFRA"
+   ],
+   "imo": 9185346,
+   "flag": "🇧🇼",
+   "firstSeen": "2026-06-25T09:20:20.919Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 1,
+   "lastLat": 25.6778,
+   "lastLon": 57.0419,
+   "lastSog": 0.2,
+   "lastHeading": 245,
+   "lastStatus": "AT ANCHOR"
+  },
+  {
+   "mmsi": 377716000,
+   "name": "SWISSCO SWIFT",
+   "names": [
+    "SWISSCO SWIFT"
+   ],
+   "imo": 9550450,
+   "flag": "🇻🇨",
+   "firstSeen": "2026-06-25T09:20:20.919Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 1,
+   "lastLat": 24.8643,
+   "lastLon": 53.6056,
+   "lastSog": 0,
+   "lastHeading": 284,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 248139000,
+   "name": "TRANSSHELF",
+   "names": [
+    "TRANSSHELF"
+   ],
+   "imo": 8512279,
+   "flag": "🇲🇹",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-25T09:20:20.919Z",
+   "timesSeen": 2,
+   "lastLat": 25.4773,
+   "lastLon": 55.2084,
+   "lastSog": 0,
+   "lastHeading": 329,
+   "lastStatus": "AT ANCHOR"
+  },
   {
    "mmsi": 470457000,
    "name": "ADNOC 250",
@@ -377,23 +632,6 @@
    "lastStatus": "UNDERWAY"
   },
   {
-   "mmsi": 470624000,
-   "name": "GHASHA",
-   "names": [
-    "GHASHA"
-   ],
-   "imo": 9880958,
-   "flag": "🇦🇪",
-   "firstSeen": "2026-06-24T09:28:01.703Z",
-   "lastSeen": "2026-06-24T09:28:01.703Z",
-   "timesSeen": 1,
-   "lastLat": 24.7459,
-   "lastLon": 54.5594,
-   "lastSog": 0,
-   "lastHeading": 134,
-   "lastStatus": "RESTRICTED"
-  },
-  {
    "mmsi": 351319000,
    "name": "GMS SHAMAL 5601",
    "names": [
@@ -564,23 +802,6 @@
    "lastStatus": "MOORED"
   },
   {
-   "mmsi": 376823000,
-   "name": "OCEAN TRANSPORTER",
-   "names": [
-    "OCEAN TRANSPORTER"
-   ],
-   "imo": 9649380,
-   "flag": "🇻🇨",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-24T09:28:01.703Z",
-   "timesSeen": 2,
-   "lastLat": 24.8959,
-   "lastLon": 53.8672,
-   "lastSog": 0.1,
-   "lastHeading": 9,
-   "lastStatus": "SAILING"
-  },
-  {
    "mmsi": 374667000,
    "name": "PILI PILI 4503",
    "names": [
@@ -613,23 +834,6 @@
    "lastSog": 3,
    "lastHeading": 133,
    "lastStatus": "UNDERWAY"
-  },
-  {
-   "mmsi": 352824000,
-   "name": "POSITIVE PIONEER",
-   "names": [
-    "POSITIVE PIONEER"
-   ],
-   "imo": 9304514,
-   "flag": "🇵🇦",
-   "firstSeen": "2026-06-24T09:28:01.703Z",
-   "lastSeen": "2026-06-24T09:28:01.703Z",
-   "timesSeen": 1,
-   "lastLat": 24.802,
-   "lastLon": 54.663,
-   "lastSog": 0,
-   "lastHeading": 321,
-   "lastStatus": "MOORED"
   },
   {
    "mmsi": 352898675,
@@ -1242,23 +1446,6 @@
    "lastSog": 0,
    "lastHeading": 29,
    "lastStatus": "RESTRICTED"
-  },
-  {
-   "mmsi": 248139000,
-   "name": "TRANSSHELF",
-   "names": [
-    "TRANSSHELF"
-   ],
-   "imo": 8512279,
-   "flag": "🇲🇹",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-23T09:37:06.289Z",
-   "timesSeen": 1,
-   "lastLat": 25.4772,
-   "lastLon": 55.2084,
-   "lastSog": 0,
-   "lastHeading": 321,
-   "lastStatus": "AT ANCHOR"
   },
   {
    "mmsi": 355080000,

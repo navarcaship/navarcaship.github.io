@@ -83,3 +83,18 @@
 {"ts":"2026-06-24T09:28:01.703Z","mmsi":229872000,"name":"STAR PIERA","imo":9450909,"flag":"🇲🇹","lat":26.6772,"lon":56.2812,"sog":11.3,"heading":59,"status":"UNDERWAY"}
 {"ts":"2026-06-24T09:28:01.703Z","mmsi":245810000,"name":"ATHENA","imo":9548603,"flag":"🇳🇱","lat":25.9541,"lon":56.057,"sog":0,"heading":345,"status":"MOORED"}
 {"ts":"2026-06-24T09:28:01.703Z","mmsi":352005019,"name":"ALSILS","imo":9218284,"flag":"🇵🇦","lat":25.9746,"lon":56.0511,"sog":0,"heading":275,"status":"MOORED"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":470891052,"name":"AL RAFIQ","imo":9614012,"flag":"🇦🇪","lat":24.6858,"lon":53.5867,"sog":6.4,"heading":87,"status":"RESTRICTED"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":470345000,"name":"BATEEL","imo":9740627,"flag":"🇦🇪","lat":24.9073,"lon":53.6894,"sog":0,"heading":26,"status":""}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":376823000,"name":"OCEAN TRANSPORTER","imo":9649380,"flag":"🇻🇨","lat":24.6886,"lon":53.5558,"sog":0.1,"heading":302,"status":"SAILING"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":471198000,"name":"ADNOC W01","imo":9681340,"flag":"🇦🇪","lat":24.7246,"lon":53.9052,"sog":5.8,"heading":283,"status":"UNDERWAY"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":341994000,"name":"SEA SCARF 1","imo":9646015,"flag":"🇰🇳","lat":24.9499,"lon":54.3921,"sog":3.6,"heading":null,"status":"UNDERWAY"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":470444000,"name":"NAGWA 1","imo":9850264,"flag":"🇦🇪","lat":24.5262,"lon":54.5994,"sog":0,"heading":280,"status":"AT ANCHOR"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":470177000,"name":"MUTAWA 106","imo":9783277,"flag":"🇦🇪","lat":24.855,"lon":53.635,"sog":0.4,"heading":180,"status":"UNDERWAY"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":352824000,"name":"POSITIVE PIONEER","imo":9304514,"flag":"🇵🇦","lat":24.802,"lon":54.663,"sog":0,"heading":321,"status":"MOORED"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":377716000,"name":"SWISSCO SWIFT","imo":9550450,"flag":"🇻🇨","lat":24.8643,"lon":53.6056,"sog":0,"heading":284,"status":"UNDERWAY"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":470624000,"name":"GHASHA","imo":9880958,"flag":"🇦🇪","lat":24.9205,"lon":54.5273,"sog":2.2,"heading":336,"status":"RESTRICTED"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":314001097,"name":"NEW VENTURE","imo":9281580,"flag":"🇧🇧","lat":25.698,"lon":56.9568,"sog":0,"heading":106,"status":"AT ANCHOR"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":611000110,"name":"SIFRA","imo":9185346,"flag":"🇧🇼","lat":25.6778,"lon":57.0419,"sog":0.2,"heading":245,"status":"AT ANCHOR"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":671404100,"name":"NEPTUNE","imo":1025083,"flag":"🇹🇬","lat":25.3734,"lon":55.2596,"sog":7.2,"heading":164,"status":"SAILING"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":511873000,"name":"GEMMA","imo":9509097,"flag":"🇵🇼","lat":26.5612,"lon":56.2315,"sog":9.5,"heading":250,"status":"UNDERWAY"}
+{"ts":"2026-06-25T09:20:20.919Z","mmsi":248139000,"name":"TRANSSHELF","imo":8512279,"flag":"🇲🇹","lat":25.4773,"lon":55.2084,"sog":0,"heading":329,"status":"AT ANCHOR"}
