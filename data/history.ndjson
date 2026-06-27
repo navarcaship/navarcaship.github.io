@@ -124,3 +124,29 @@
 {"ts":"2026-06-26T09:24:43.307Z","mmsi":563299200,"name":"SPIRIT OF CHENNAI","imo":9813840,"flag":"🇸🇬","lat":25.5322,"lon":55.2586,"sog":0.1,"heading":274,"status":"AT ANCHOR"}
 {"ts":"2026-06-26T09:24:43.307Z","mmsi":341884000,"name":"LUCIA","imo":9138343,"flag":"🇰🇳","lat":26.0523,"lon":55.5361,"sog":9,"heading":230,"status":"UNDERWAY"}
 {"ts":"2026-06-26T09:24:43.307Z","mmsi":419001649,"name":"LILA VADINAR","imo":9324100,"flag":"🇮🇳","lat":25.8467,"lon":55.526,"sog":11.5,"heading":248,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":470022000,"name":"RIG YAS","imo":9709996,"flag":"🇦🇪","lat":24.8282,"lon":53.5729,"sog":0,"heading":null,"status":""}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":471193000,"name":"P&O ENERGY","imo":9461037,"flag":"🇦🇪","lat":24.9892,"lon":55.058,"sog":0.1,"heading":55,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":620943000,"name":"SUHAILA","imo":9921635,"flag":"🇰🇲","lat":24.704,"lon":54.654,"sog":0.1,"heading":null,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":470143000,"name":"AL SADR-I","imo":9574016,"flag":"🇦🇪","lat":24.8001,"lon":54.6491,"sog":0,"heading":141,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":636013902,"name":"EAGLE","imo":9480978,"flag":"🇱🇷","lat":24.3204,"lon":54.4503,"sog":0,"heading":177,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":470117000,"name":"EMBARKA 4","imo":null,"flag":"🇦🇪","lat":24.8189,"lon":54.6512,"sog":0,"heading":null,"status":""}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":244009000,"name":"COASTAL RAMBLER","imo":9304904,"flag":"🇳🇱","lat":24.7914,"lon":54.6864,"sog":0,"heading":16,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":352257000,"name":"QMS AL BAHIA","imo":9828041,"flag":"🇵🇦","lat":24.8586,"lon":53.7609,"sog":0,"heading":41,"status":"RESTRICTED"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":471191000,"name":"MUNA","imo":1121320,"flag":"🇦🇪","lat":24.6895,"lon":53.7643,"sog":6.6,"heading":272,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":671085100,"name":"AMS ONYX","imo":9401702,"flag":"🇹🇬","lat":24.3029,"lon":54.4521,"sog":0,"heading":88,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":470624000,"name":"GHASHA","imo":9880958,"flag":"🇦🇪","lat":24.7459,"lon":54.5594,"sog":0,"heading":106,"status":"RESTRICTED"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":352005227,"name":"RAYAN","imo":1089663,"flag":"🇵🇦","lat":24.8895,"lon":53.6893,"sog":5.8,"heading":156,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":470845000,"name":"SEA STAR","imo":9346897,"flag":"🇦🇪","lat":24.5128,"lon":54.3756,"sog":0,"heading":null,"status":"RESTRICTED"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":356903000,"name":"ORIENTAL MARGUERITE","imo":9407201,"flag":"🇵🇦","lat":25.8533,"lon":55.5573,"sog":0,"heading":352,"status":"AT ANCHOR"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":341787001,"name":"ALMAHER","imo":8515128,"flag":"🇰🇳","lat":25.478,"lon":55.2906,"sog":0.2,"heading":null,"status":"AT ANCHOR"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":314092000,"name":"NAVARA","imo":9241798,"flag":"🇧🇧","lat":25.537,"lon":55.274,"sog":0,"heading":13,"status":"AT ANCHOR"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":636025772,"name":"STALLION","imo":9399478,"flag":"🇱🇷","lat":26.0143,"lon":55.1251,"sog":11.9,"heading":268,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":636014947,"name":"MEZAIRA'A","imo":9487275,"flag":"🇱🇷","lat":25.4396,"lon":55.2114,"sog":7,"heading":135,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":620999554,"name":"SEA SERV 501","imo":7366427,"flag":"🇰🇲","lat":25.4413,"lon":55.2368,"sog":0.1,"heading":null,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":209258000,"name":"DUBAI FORTUNE","imo":9040120,"flag":"🇨🇾","lat":25.4513,"lon":55.2859,"sog":9.3,"heading":81,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":720002000,"name":"TAKU 10","imo":9159476,"flag":"🇧🇴","lat":25.3864,"lon":55.2749,"sog":7.7,"heading":32,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":636020246,"name":"MONJASA SERVER","imo":null,"flag":"🇱🇷","lat":25.4256,"lon":55.2782,"sog":4.4,"heading":104,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":649334000,"name":"SIGMA99","imo":null,"flag":"🇲🇱","lat":25.4765,"lon":55.1893,"sog":0,"heading":null,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":210696000,"name":"DUBAI ENTERPRISE","imo":9121871,"flag":"🇨🇾","lat":25.4508,"lon":55.3565,"sog":2.8,"heading":249,"status":"UNDERWAY"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":620800165,"name":"HENDRIK 3","imo":8200917,"flag":"🇰🇲","lat":25.5249,"lon":55.2892,"sog":0,"heading":null,"status":"AT ANCHOR"}
+{"ts":"2026-06-27T08:34:48.034Z","mmsi":620999357,"name":"PSL TIGER","imo":9153123,"flag":"🇰🇲","lat":25.514,"lon":55.1761,"sog":0,"heading":null,"status":"UNDERWAY"}
