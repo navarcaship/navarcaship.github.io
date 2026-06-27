@@ -1,0 +1,24 @@
+{
+  "name": "Navarca Ship Management",
+  "short_name": "Navarca",
+  "description": "Abu Dhabi vessel operator — chartering, brokerage and marine operations across the Arabian Gulf.",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b1d2a",
+  "icons": [
+    {
+      "src": "/assets/images/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/og-image-square.png",
+      "sizes": "1200x1200",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

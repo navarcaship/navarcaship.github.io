@@ -5,41 +5,56 @@ User-agent: *
 Allow: /
 Disallow: /data/
 
-# --- AI assistants & answer engines (explicitly allowed) ---
+# --- AI assistants & answer engines (explicitly allowed, /data/ still off-limits) ---
+# Note: a crawler obeys only the block that names it, so /data/ must be
+# repeated in each block — rules are not inherited from User-agent: *.
+
 # OpenAI / ChatGPT
 User-agent: GPTBot
 Allow: /
+Disallow: /data/
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /data/
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /data/
 
 # Anthropic / Claude
 User-agent: ClaudeBot
 Allow: /
+Disallow: /data/
 User-agent: anthropic-ai
 Allow: /
+Disallow: /data/
 User-agent: Claude-Web
 Allow: /
+Disallow: /data/
 
 # Perplexity
 User-agent: PerplexityBot
 Allow: /
+Disallow: /data/
 User-agent: Perplexity-User
 Allow: /
+Disallow: /data/
 
 # Google (Gemini / AI Overviews training)
 User-agent: Google-Extended
 Allow: /
+Disallow: /data/
 
 # Microsoft / Bing / Copilot
 User-agent: Bingbot
 Allow: /
+Disallow: /data/
 
 # Apple Intelligence
 User-agent: Applebot
 Allow: /
+Disallow: /data/
 User-agent: Applebot-Extended
 Allow: /
+Disallow: /data/
 
 Sitemap: https://navarca.ae/sitemap.xml
