@@ -150,3 +150,15 @@
 {"ts":"2026-06-27T08:34:48.034Z","mmsi":210696000,"name":"DUBAI ENTERPRISE","imo":9121871,"flag":"🇨🇾","lat":25.4508,"lon":55.3565,"sog":2.8,"heading":249,"status":"UNDERWAY"}
 {"ts":"2026-06-27T08:34:48.034Z","mmsi":620800165,"name":"HENDRIK 3","imo":8200917,"flag":"🇰🇲","lat":25.5249,"lon":55.2892,"sog":0,"heading":null,"status":"AT ANCHOR"}
 {"ts":"2026-06-27T08:34:48.034Z","mmsi":620999357,"name":"PSL TIGER","imo":9153123,"flag":"🇰🇲","lat":25.514,"lon":55.1761,"sog":0,"heading":null,"status":"UNDERWAY"}
+{"ts":"2026-06-28T08:50:09.618Z","mmsi":470125000,"name":"AL MARYAH-1","imo":9817420,"flag":"🇦🇪","lat":24.7966,"lon":54.6522,"sog":0,"heading":null,"status":"SAILING"}
+{"ts":"2026-06-28T08:50:09.618Z","mmsi":538010942,"name":"SAFEEN ATHENA 1","imo":9673939,"flag":"🇲🇭","lat":24.7945,"lon":54.6931,"sog":0,"heading":100,"status":"UNDERWAY"}
+{"ts":"2026-06-28T08:50:09.618Z","mmsi":470655000,"name":"AL ALIA","imo":9928956,"flag":"🇦🇪","lat":24.8318,"lon":54.6476,"sog":0.3,"heading":92,"status":"RESTRICTED"}
+{"ts":"2026-06-28T08:50:09.618Z","mmsi":471206000,"name":"BU TINAH II","imo":9985174,"flag":"🇦🇪","lat":24.7963,"lon":54.6527,"sog":0,"heading":152,"status":"UNDERWAY"}
+{"ts":"2026-06-28T08:50:09.618Z","mmsi":352005227,"name":"RAYAN","imo":1089663,"flag":"🇵🇦","lat":24.7044,"lon":54.6564,"sog":0,"heading":271,"status":"MOORED"}
+{"ts":"2026-06-28T08:50:09.618Z","mmsi":352824000,"name":"POSITIVE PIONEER","imo":9304514,"flag":"🇵🇦","lat":24.802,"lon":54.663,"sog":0,"heading":321,"status":"MOORED"}
+{"ts":"2026-06-28T08:50:09.618Z","mmsi":518706000,"name":"MARCAP DANNY","imo":9545883,"flag":"🇨🇰","lat":24.4528,"lon":53.3719,"sog":0,"heading":276,"status":"UNDERWAY"}
+{"ts":"2026-06-28T08:50:09.618Z","mmsi":374017000,"name":"QMS MARWA","imo":9788643,"flag":"🇵🇦","lat":24.8068,"lon":54.6616,"sog":0,"heading":null,"status":"MOORED"}
+{"ts":"2026-06-28T08:50:09.618Z","mmsi":352003787,"name":"GERHILD","imo":9317779,"flag":"🇵🇦","lat":24.7999,"lon":54.6577,"sog":0,"heading":141,"status":"MOORED"}
+{"ts":"2026-06-28T08:50:09.618Z","mmsi":377634000,"name":"QMS SUPPORTER","imo":9770206,"flag":"🇻🇨","lat":24.5088,"lon":52.4286,"sog":0,"heading":243,"status":"AT ANCHOR"}
+{"ts":"2026-06-28T08:50:09.618Z","mmsi":470085000,"name":"ADNOC MP01","imo":9689263,"flag":"🇦🇪","lat":24.7943,"lon":54.6939,"sog":0,"heading":280,"status":"MOORED"}
+{"ts":"2026-06-28T08:50:09.618Z","mmsi":538007683,"name":"CONSTANTINOS P II","imo":9461623,"flag":"🇲🇭","lat":24.818,"lon":54.6648,"sog":0,"heading":230,"status":"MOORED"}

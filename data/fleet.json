@@ -1,7 +1,211 @@
 {
- "updated": "2026-06-27T08:34:48.034Z",
- "count": 123,
+ "updated": "2026-06-28T08:50:09.618Z",
+ "count": 129,
  "vessels": [
+  {
+   "mmsi": 470085000,
+   "name": "ADNOC MP01",
+   "names": [
+    "ADNOC MP01"
+   ],
+   "imo": 9689263,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-26T09:24:43.307Z",
+   "lastSeen": "2026-06-28T08:50:09.618Z",
+   "timesSeen": 2,
+   "lastLat": 24.7943,
+   "lastLon": 54.6939,
+   "lastSog": 0,
+   "lastHeading": 280,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 470655000,
+   "name": "AL ALIA",
+   "names": [
+    "AL ALIA"
+   ],
+   "imo": 9928956,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-28T08:50:09.618Z",
+   "timesSeen": 3,
+   "lastLat": 24.8318,
+   "lastLon": 54.6476,
+   "lastSog": 0.3,
+   "lastHeading": 92,
+   "lastStatus": "RESTRICTED"
+  },
+  {
+   "mmsi": 470125000,
+   "name": "AL MARYAH-1",
+   "names": [
+    "AL MARYAH-1"
+   ],
+   "imo": 9817420,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-28T08:50:09.618Z",
+   "timesSeen": 3,
+   "lastLat": 24.7966,
+   "lastLon": 54.6522,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": "SAILING"
+  },
+  {
+   "mmsi": 471206000,
+   "name": "BU TINAH II",
+   "names": [
+    "BU TINAH II"
+   ],
+   "imo": 9985174,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-28T08:50:09.618Z",
+   "timesSeen": 4,
+   "lastLat": 24.7963,
+   "lastLon": 54.6527,
+   "lastSog": 0,
+   "lastHeading": 152,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 538007683,
+   "name": "CONSTANTINOS P II",
+   "names": [
+    "CONSTANTINOS P II"
+   ],
+   "imo": 9461623,
+   "flag": "🇲🇭",
+   "firstSeen": "2026-06-28T08:50:09.618Z",
+   "lastSeen": "2026-06-28T08:50:09.618Z",
+   "timesSeen": 1,
+   "lastLat": 24.818,
+   "lastLon": 54.6648,
+   "lastSog": 0,
+   "lastHeading": 230,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 352003787,
+   "name": "GERHILD",
+   "names": [
+    "GERHILD"
+   ],
+   "imo": 9317779,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-28T08:50:09.618Z",
+   "lastSeen": "2026-06-28T08:50:09.618Z",
+   "timesSeen": 1,
+   "lastLat": 24.7999,
+   "lastLon": 54.6577,
+   "lastSog": 0,
+   "lastHeading": 141,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 518706000,
+   "name": "MARCAP DANNY",
+   "names": [
+    "MARCAP DANNY"
+   ],
+   "imo": 9545883,
+   "flag": "🇨🇰",
+   "firstSeen": "2026-06-28T08:50:09.618Z",
+   "lastSeen": "2026-06-28T08:50:09.618Z",
+   "timesSeen": 1,
+   "lastLat": 24.4528,
+   "lastLon": 53.3719,
+   "lastSog": 0,
+   "lastHeading": 276,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 352824000,
+   "name": "POSITIVE PIONEER",
+   "names": [
+    "POSITIVE PIONEER"
+   ],
+   "imo": 9304514,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-28T08:50:09.618Z",
+   "timesSeen": 4,
+   "lastLat": 24.802,
+   "lastLon": 54.663,
+   "lastSog": 0,
+   "lastHeading": 321,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 374017000,
+   "name": "QMS MARWA",
+   "names": [
+    "QMS MARWA"
+   ],
+   "imo": 9788643,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-28T08:50:09.618Z",
+   "lastSeen": "2026-06-28T08:50:09.618Z",
+   "timesSeen": 1,
+   "lastLat": 24.8068,
+   "lastLon": 54.6616,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 377634000,
+   "name": "QMS SUPPORTER",
+   "names": [
+    "QMS SUPPORTER"
+   ],
+   "imo": 9770206,
+   "flag": "🇻🇨",
+   "firstSeen": "2026-06-28T08:50:09.618Z",
+   "lastSeen": "2026-06-28T08:50:09.618Z",
+   "timesSeen": 1,
+   "lastLat": 24.5088,
+   "lastLon": 52.4286,
+   "lastSog": 0,
+   "lastHeading": 243,
+   "lastStatus": "AT ANCHOR"
+  },
+  {
+   "mmsi": 352005227,
+   "name": "RAYAN",
+   "names": [
+    "RAYAN"
+   ],
+   "imo": 1089663,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-28T08:50:09.618Z",
+   "timesSeen": 3,
+   "lastLat": 24.7044,
+   "lastLon": 54.6564,
+   "lastSog": 0,
+   "lastHeading": 271,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 538010942,
+   "name": "SAFEEN ATHENA 1",
+   "names": [
+    "SAFEEN ATHENA 1"
+   ],
+   "imo": 9673939,
+   "flag": "🇲🇭",
+   "firstSeen": "2026-06-28T08:50:09.618Z",
+   "lastSeen": "2026-06-28T08:50:09.618Z",
+   "timesSeen": 1,
+   "lastLat": 24.7945,
+   "lastLon": 54.6931,
+   "lastSog": 0,
+   "lastHeading": 100,
+   "lastStatus": "UNDERWAY"
+  },
   {
    "mmsi": 470143000,
    "name": "AL SADR-I",
@@ -309,23 +513,6 @@
    "lastStatus": "RESTRICTED"
   },
   {
-   "mmsi": 352005227,
-   "name": "RAYAN",
-   "names": [
-    "RAYAN"
-   ],
-   "imo": 1089663,
-   "flag": "🇵🇦",
-   "firstSeen": "2026-06-24T09:28:01.703Z",
-   "lastSeen": "2026-06-27T08:34:48.034Z",
-   "timesSeen": 2,
-   "lastLat": 24.8895,
-   "lastLon": 53.6893,
-   "lastSog": 5.8,
-   "lastHeading": 156,
-   "lastStatus": "UNDERWAY"
-  },
-  {
    "mmsi": 470022000,
    "name": "RIG YAS",
    "names": [
@@ -445,57 +632,6 @@
    "lastStatus": "UNDERWAY"
   },
   {
-   "mmsi": 470085000,
-   "name": "ADNOC MP01",
-   "names": [
-    "ADNOC MP01"
-   ],
-   "imo": 9689263,
-   "flag": "🇦🇪",
-   "firstSeen": "2026-06-26T09:24:43.307Z",
-   "lastSeen": "2026-06-26T09:24:43.307Z",
-   "timesSeen": 1,
-   "lastLat": 24.7922,
-   "lastLon": 54.6942,
-   "lastSog": 0,
-   "lastHeading": 8,
-   "lastStatus": "MOORED"
-  },
-  {
-   "mmsi": 470655000,
-   "name": "AL ALIA",
-   "names": [
-    "AL ALIA"
-   ],
-   "imo": 9928956,
-   "flag": "🇦🇪",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-26T09:24:43.307Z",
-   "timesSeen": 2,
-   "lastLat": 24.8186,
-   "lastLon": 54.6512,
-   "lastSog": 0,
-   "lastHeading": 232,
-   "lastStatus": "RESTRICTED"
-  },
-  {
-   "mmsi": 470125000,
-   "name": "AL MARYAH-1",
-   "names": [
-    "AL MARYAH-1"
-   ],
-   "imo": 9817420,
-   "flag": "🇦🇪",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-26T09:24:43.307Z",
-   "timesSeen": 2,
-   "lastLat": 24.7964,
-   "lastLon": 54.6527,
-   "lastSog": 0,
-   "lastHeading": null,
-   "lastStatus": "SAILING"
-  },
-  {
    "mmsi": 352001662,
    "name": "AYRIN",
    "names": [
@@ -510,23 +646,6 @@
    "lastLon": 55.4443,
    "lastSog": 7.4,
    "lastHeading": 15,
-   "lastStatus": "UNDERWAY"
-  },
-  {
-   "mmsi": 471206000,
-   "name": "BU TINAH II",
-   "names": [
-    "BU TINAH II"
-   ],
-   "imo": 9985174,
-   "flag": "🇦🇪",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-26T09:24:43.307Z",
-   "timesSeen": 3,
-   "lastLat": 24.8229,
-   "lastLon": 54.6712,
-   "lastSog": 0,
-   "lastHeading": 292,
    "lastStatus": "UNDERWAY"
   },
   {
@@ -748,23 +867,6 @@
    "lastLon": 54.6607,
    "lastSog": 0.1,
    "lastHeading": 51,
-   "lastStatus": "MOORED"
-  },
-  {
-   "mmsi": 352824000,
-   "name": "POSITIVE PIONEER",
-   "names": [
-    "POSITIVE PIONEER"
-   ],
-   "imo": 9304514,
-   "flag": "🇵🇦",
-   "firstSeen": "2026-06-24T09:28:01.703Z",
-   "lastSeen": "2026-06-26T09:24:43.307Z",
-   "timesSeen": 3,
-   "lastLat": 24.802,
-   "lastLon": 54.663,
-   "lastSog": 0,
-   "lastHeading": 321,
    "lastStatus": "MOORED"
   },
   {
