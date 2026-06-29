@@ -162,3 +162,25 @@
 {"ts":"2026-06-28T08:50:09.618Z","mmsi":377634000,"name":"QMS SUPPORTER","imo":9770206,"flag":"🇻🇨","lat":24.5088,"lon":52.4286,"sog":0,"heading":243,"status":"AT ANCHOR"}
 {"ts":"2026-06-28T08:50:09.618Z","mmsi":470085000,"name":"ADNOC MP01","imo":9689263,"flag":"🇦🇪","lat":24.7943,"lon":54.6939,"sog":0,"heading":280,"status":"MOORED"}
 {"ts":"2026-06-28T08:50:09.618Z","mmsi":538007683,"name":"CONSTANTINOS P II","imo":9461623,"flag":"🇲🇭","lat":24.818,"lon":54.6648,"sog":0,"heading":230,"status":"MOORED"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":352002728,"name":"SUHAIL","imo":9807607,"flag":"🇵🇦","lat":24.9116,"lon":53.3575,"sog":0,"heading":355,"status":"MOORED"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":471191000,"name":"MUNA","imo":1121320,"flag":"🇦🇪","lat":24.8749,"lon":53.6904,"sog":5.6,"heading":19,"status":"UNDERWAY"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":470891057,"name":"AL FATTAN 10","imo":9841770,"flag":"🇦🇪","lat":24.8497,"lon":53.0935,"sog":0.1,"heading":26,"status":"UNDERWAY"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":352257000,"name":"QMS AL BAHIA","imo":9828041,"flag":"🇵🇦","lat":24.8585,"lon":53.761,"sog":0,"heading":41,"status":"RESTRICTED"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":376967000,"name":"WAHA MERMAID","imo":9320582,"flag":"🇻🇨","lat":24.6918,"lon":53.7388,"sog":5.5,"heading":254,"status":"UNDERWAY"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":470655000,"name":"AL ALIA","imo":9928956,"flag":"🇦🇪","lat":24.8352,"lon":54.6448,"sog":0,"heading":272,"status":"RESTRICTED"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":470000455,"name":"DELMA 17","imo":null,"flag":"🇦🇪","lat":24.1879,"lon":54.0018,"sog":0,"heading":null,"status":""}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":374285000,"name":"MCS ALLIANZ JADE","imo":9848259,"flag":"🇵🇦","lat":24.8363,"lon":53.6531,"sog":14.2,"heading":209,"status":"SAILING"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":636025253,"name":"CREST GOLD 1","imo":9468267,"flag":"🇱🇷","lat":24.8405,"lon":53.8747,"sog":3.4,"heading":173,"status":"RESTRICTED"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":470345000,"name":"BATEEL","imo":9740627,"flag":"🇦🇪","lat":24.9073,"lon":53.6894,"sog":0,"heading":26,"status":""}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":636017192,"name":"ENERGY EMERGER","imo":9743007,"flag":"🇱🇷","lat":25.4696,"lon":55.5004,"sog":0,"heading":119,"status":"DRAUGHT-CONSTR."}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":620278000,"name":"PROACE","imo":8740101,"flag":"🇰🇲","lat":26.1682,"lon":55.9834,"sog":1,"heading":167,"status":"UNDERWAY"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":341028000,"name":"ALMA NOVA","imo":9257486,"flag":"🇰🇳","lat":26.3,"lon":56.2334,"sog":0,"heading":49,"status":"SAILING"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":422519000,"name":"EHSANDARYA","imo":8989989,"flag":"🇮🇷","lat":25.5482,"lon":55.1902,"sog":6.9,"heading":146,"status":"UNDERWAY"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":341787001,"name":"ALMAHER","imo":8515128,"flag":"🇰🇳","lat":25.4782,"lon":55.2913,"sog":0.1,"heading":null,"status":"AT ANCHOR"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":422430400,"name":"AL AMIN","imo":null,"flag":"🇮🇷","lat":25.3548,"lon":55.2418,"sog":0,"heading":0,"status":"UNDERWAY"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":341517002,"name":"B STAR 1","imo":9499216,"flag":"🇰🇳","lat":25.4076,"lon":55.2016,"sog":0,"heading":303,"status":"AT ANCHOR"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":636024184,"name":"TB JINJIANG","imo":9143116,"flag":"🇱🇷","lat":25.4664,"lon":55.2272,"sog":0,"heading":324,"status":"AT ANCHOR"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":564292000,"name":"LANPAN 35","imo":9739915,"flag":"🇸🇬","lat":25.4707,"lon":55.5073,"sog":0,"heading":null,"status":"UNDERWAY"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":620999710,"name":"HAMOON","imo":8984903,"flag":"🇰🇲","lat":25.3056,"lon":55.3335,"sog":0,"heading":null,"status":""}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":636010647,"name":"UMM AL ASHTAN","imo":9074652,"flag":"🇱🇷","lat":26.0671,"lon":55.8899,"sog":2.6,"heading":62,"status":"UNDERWAY"}
+{"ts":"2026-06-29T10:57:38.058Z","mmsi":248311000,"name":"INDIGO STAR 1","imo":8979142,"flag":"🇲🇹","lat":25.2882,"lon":55.2908,"sog":0,"heading":78,"status":"MOORED"}

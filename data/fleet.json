@@ -1,7 +1,381 @@
 {
- "updated": "2026-06-28T08:50:09.618Z",
- "count": 129,
+ "updated": "2026-06-29T10:57:38.058Z",
+ "count": 144,
  "vessels": [
+  {
+   "mmsi": 470655000,
+   "name": "AL ALIA",
+   "names": [
+    "AL ALIA"
+   ],
+   "imo": 9928956,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 4,
+   "lastLat": 24.8352,
+   "lastLon": 54.6448,
+   "lastSog": 0,
+   "lastHeading": 272,
+   "lastStatus": "RESTRICTED"
+  },
+  {
+   "mmsi": 422430400,
+   "name": "AL AMIN",
+   "names": [
+    "AL AMIN"
+   ],
+   "imo": null,
+   "flag": "🇮🇷",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 25.3548,
+   "lastLon": 55.2418,
+   "lastSog": 0,
+   "lastHeading": 0,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 470891057,
+   "name": "AL FATTAN 10",
+   "names": [
+    "AL FATTAN 10"
+   ],
+   "imo": 9841770,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 24.8497,
+   "lastLon": 53.0935,
+   "lastSog": 0.1,
+   "lastHeading": 26,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 341028000,
+   "name": "ALMA NOVA",
+   "names": [
+    "ALMA NOVA"
+   ],
+   "imo": 9257486,
+   "flag": "🇰🇳",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 26.3,
+   "lastLon": 56.2334,
+   "lastSog": 0,
+   "lastHeading": 49,
+   "lastStatus": "SAILING"
+  },
+  {
+   "mmsi": 341787001,
+   "name": "ALMAHER",
+   "names": [
+    "ALMAHER"
+   ],
+   "imo": 8515128,
+   "flag": "🇰🇳",
+   "firstSeen": "2026-06-27T08:34:48.034Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 2,
+   "lastLat": 25.4782,
+   "lastLon": 55.2913,
+   "lastSog": 0.1,
+   "lastHeading": null,
+   "lastStatus": "AT ANCHOR"
+  },
+  {
+   "mmsi": 341517002,
+   "name": "B STAR 1",
+   "names": [
+    "B STAR 1"
+   ],
+   "imo": 9499216,
+   "flag": "🇰🇳",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 25.4076,
+   "lastLon": 55.2016,
+   "lastSog": 0,
+   "lastHeading": 303,
+   "lastStatus": "AT ANCHOR"
+  },
+  {
+   "mmsi": 470345000,
+   "name": "BATEEL",
+   "names": [
+    "BATEEL"
+   ],
+   "imo": 9740627,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-25T09:20:20.919Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 2,
+   "lastLat": 24.9073,
+   "lastLon": 53.6894,
+   "lastSog": 0,
+   "lastHeading": 26,
+   "lastStatus": ""
+  },
+  {
+   "mmsi": 636025253,
+   "name": "CREST GOLD 1",
+   "names": [
+    "CREST GOLD 1"
+   ],
+   "imo": 9468267,
+   "flag": "🇱🇷",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 24.8405,
+   "lastLon": 53.8747,
+   "lastSog": 3.4,
+   "lastHeading": 173,
+   "lastStatus": "RESTRICTED"
+  },
+  {
+   "mmsi": 470000455,
+   "name": "DELMA 17",
+   "names": [
+    "DELMA 17"
+   ],
+   "imo": null,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 24.1879,
+   "lastLon": 54.0018,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": ""
+  },
+  {
+   "mmsi": 422519000,
+   "name": "EHSANDARYA",
+   "names": [
+    "EHSANDARYA"
+   ],
+   "imo": 8989989,
+   "flag": "🇮🇷",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 25.5482,
+   "lastLon": 55.1902,
+   "lastSog": 6.9,
+   "lastHeading": 146,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 636017192,
+   "name": "ENERGY EMERGER",
+   "names": [
+    "ENERGY EMERGER"
+   ],
+   "imo": 9743007,
+   "flag": "🇱🇷",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 25.4696,
+   "lastLon": 55.5004,
+   "lastSog": 0,
+   "lastHeading": 119,
+   "lastStatus": "DRAUGHT-CONSTR."
+  },
+  {
+   "mmsi": 620999710,
+   "name": "HAMOON",
+   "names": [
+    "HAMOON"
+   ],
+   "imo": 8984903,
+   "flag": "🇰🇲",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 25.3056,
+   "lastLon": 55.3335,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": ""
+  },
+  {
+   "mmsi": 248311000,
+   "name": "INDIGO STAR 1",
+   "names": [
+    "INDIGO STAR 1"
+   ],
+   "imo": 8979142,
+   "flag": "🇲🇹",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 25.2882,
+   "lastLon": 55.2908,
+   "lastSog": 0,
+   "lastHeading": 78,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 564292000,
+   "name": "LANPAN 35",
+   "names": [
+    "LANPAN 35"
+   ],
+   "imo": 9739915,
+   "flag": "🇸🇬",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 25.4707,
+   "lastLon": 55.5073,
+   "lastSog": 0,
+   "lastHeading": null,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 374285000,
+   "name": "MCS ALLIANZ JADE",
+   "names": [
+    "MCS ALLIANZ JADE"
+   ],
+   "imo": 9848259,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 24.8363,
+   "lastLon": 53.6531,
+   "lastSog": 14.2,
+   "lastHeading": 209,
+   "lastStatus": "SAILING"
+  },
+  {
+   "mmsi": 471191000,
+   "name": "MUNA",
+   "names": [
+    "MUNA"
+   ],
+   "imo": 1121320,
+   "flag": "🇦🇪",
+   "firstSeen": "2026-06-27T08:34:48.034Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 2,
+   "lastLat": 24.8749,
+   "lastLon": 53.6904,
+   "lastSog": 5.6,
+   "lastHeading": 19,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 620278000,
+   "name": "PROACE",
+   "names": [
+    "PROACE"
+   ],
+   "imo": 8740101,
+   "flag": "🇰🇲",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 26.1682,
+   "lastLon": 55.9834,
+   "lastSog": 1,
+   "lastHeading": 167,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 352257000,
+   "name": "QMS AL BAHIA",
+   "names": [
+    "QMS AL BAHIA"
+   ],
+   "imo": 9828041,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-23T09:37:06.289Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 3,
+   "lastLat": 24.8585,
+   "lastLon": 53.761,
+   "lastSog": 0,
+   "lastHeading": 41,
+   "lastStatus": "RESTRICTED"
+  },
+  {
+   "mmsi": 352002728,
+   "name": "SUHAIL",
+   "names": [
+    "SUHAIL"
+   ],
+   "imo": 9807607,
+   "flag": "🇵🇦",
+   "firstSeen": "2026-06-24T09:28:01.703Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 2,
+   "lastLat": 24.9116,
+   "lastLon": 53.3575,
+   "lastSog": 0,
+   "lastHeading": 355,
+   "lastStatus": "MOORED"
+  },
+  {
+   "mmsi": 636024184,
+   "name": "TB JINJIANG",
+   "names": [
+    "TB JINJIANG"
+   ],
+   "imo": 9143116,
+   "flag": "🇱🇷",
+   "firstSeen": "2026-06-26T09:24:43.307Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 2,
+   "lastLat": 25.4664,
+   "lastLon": 55.2272,
+   "lastSog": 0,
+   "lastHeading": 324,
+   "lastStatus": "AT ANCHOR"
+  },
+  {
+   "mmsi": 636010647,
+   "name": "UMM AL ASHTAN",
+   "names": [
+    "UMM AL ASHTAN"
+   ],
+   "imo": 9074652,
+   "flag": "🇱🇷",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 26.0671,
+   "lastLon": 55.8899,
+   "lastSog": 2.6,
+   "lastHeading": 62,
+   "lastStatus": "UNDERWAY"
+  },
+  {
+   "mmsi": 376967000,
+   "name": "WAHA MERMAID",
+   "names": [
+    "WAHA MERMAID"
+   ],
+   "imo": 9320582,
+   "flag": "🇻🇨",
+   "firstSeen": "2026-06-29T10:57:38.058Z",
+   "lastSeen": "2026-06-29T10:57:38.058Z",
+   "timesSeen": 1,
+   "lastLat": 24.6918,
+   "lastLon": 53.7388,
+   "lastSog": 5.5,
+   "lastHeading": 254,
+   "lastStatus": "UNDERWAY"
+  },
   {
    "mmsi": 470085000,
    "name": "ADNOC MP01",
@@ -18,23 +392,6 @@
    "lastSog": 0,
    "lastHeading": 280,
    "lastStatus": "MOORED"
-  },
-  {
-   "mmsi": 470655000,
-   "name": "AL ALIA",
-   "names": [
-    "AL ALIA"
-   ],
-   "imo": 9928956,
-   "flag": "🇦🇪",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-28T08:50:09.618Z",
-   "timesSeen": 3,
-   "lastLat": 24.8318,
-   "lastLon": 54.6476,
-   "lastSog": 0.3,
-   "lastHeading": 92,
-   "lastStatus": "RESTRICTED"
   },
   {
    "mmsi": 470125000,
@@ -224,23 +581,6 @@
    "lastStatus": "UNDERWAY"
   },
   {
-   "mmsi": 341787001,
-   "name": "ALMAHER",
-   "names": [
-    "ALMAHER"
-   ],
-   "imo": 8515128,
-   "flag": "🇰🇳",
-   "firstSeen": "2026-06-27T08:34:48.034Z",
-   "lastSeen": "2026-06-27T08:34:48.034Z",
-   "timesSeen": 1,
-   "lastLat": 25.478,
-   "lastLon": 55.2906,
-   "lastSog": 0.2,
-   "lastHeading": null,
-   "lastStatus": "AT ANCHOR"
-  },
-  {
    "mmsi": 671085100,
    "name": "AMS ONYX",
    "names": [
@@ -411,23 +751,6 @@
    "lastStatus": "UNDERWAY"
   },
   {
-   "mmsi": 471191000,
-   "name": "MUNA",
-   "names": [
-    "MUNA"
-   ],
-   "imo": 1121320,
-   "flag": "🇦🇪",
-   "firstSeen": "2026-06-27T08:34:48.034Z",
-   "lastSeen": "2026-06-27T08:34:48.034Z",
-   "timesSeen": 1,
-   "lastLat": 24.6895,
-   "lastLon": 53.7643,
-   "lastSog": 6.6,
-   "lastHeading": 272,
-   "lastStatus": "UNDERWAY"
-  },
-  {
    "mmsi": 314092000,
    "name": "NAVARA",
    "names": [
@@ -494,23 +817,6 @@
    "lastSog": 0,
    "lastHeading": null,
    "lastStatus": "UNDERWAY"
-  },
-  {
-   "mmsi": 352257000,
-   "name": "QMS AL BAHIA",
-   "names": [
-    "QMS AL BAHIA"
-   ],
-   "imo": 9828041,
-   "flag": "🇵🇦",
-   "firstSeen": "2026-06-23T09:37:06.289Z",
-   "lastSeen": "2026-06-27T08:34:48.034Z",
-   "timesSeen": 2,
-   "lastLat": 24.8586,
-   "lastLon": 53.7609,
-   "lastSog": 0,
-   "lastHeading": 41,
-   "lastStatus": "RESTRICTED"
   },
   {
    "mmsi": 470022000,
@@ -921,23 +1227,6 @@
    "lastStatus": "AT ANCHOR"
   },
   {
-   "mmsi": 636024184,
-   "name": "TB JINJIANG",
-   "names": [
-    "TB JINJIANG"
-   ],
-   "imo": 9143116,
-   "flag": "🇱🇷",
-   "firstSeen": "2026-06-26T09:24:43.307Z",
-   "lastSeen": "2026-06-26T09:24:43.307Z",
-   "timesSeen": 1,
-   "lastLat": 25.4678,
-   "lastLon": 55.2278,
-   "lastSog": 0,
-   "lastHeading": 275,
-   "lastStatus": "AT ANCHOR"
-  },
-  {
    "mmsi": 471198000,
    "name": "ADNOC W01",
    "names": [
@@ -970,23 +1259,6 @@
    "lastSog": 6.4,
    "lastHeading": 87,
    "lastStatus": "RESTRICTED"
-  },
-  {
-   "mmsi": 470345000,
-   "name": "BATEEL",
-   "names": [
-    "BATEEL"
-   ],
-   "imo": 9740627,
-   "flag": "🇦🇪",
-   "firstSeen": "2026-06-25T09:20:20.919Z",
-   "lastSeen": "2026-06-25T09:20:20.919Z",
-   "timesSeen": 1,
-   "lastLat": 24.9073,
-   "lastLon": 53.6894,
-   "lastSog": 0,
-   "lastHeading": 26,
-   "lastStatus": ""
   },
   {
    "mmsi": 511873000,
@@ -1752,23 +2024,6 @@
    "lastSog": 11.3,
    "lastHeading": 59,
    "lastStatus": "UNDERWAY"
-  },
-  {
-   "mmsi": 352002728,
-   "name": "SUHAIL",
-   "names": [
-    "SUHAIL"
-   ],
-   "imo": 9807607,
-   "flag": "🇵🇦",
-   "firstSeen": "2026-06-24T09:28:01.703Z",
-   "lastSeen": "2026-06-24T09:28:01.703Z",
-   "timesSeen": 1,
-   "lastLat": 24.9116,
-   "lastLon": 53.3575,
-   "lastSog": 0,
-   "lastHeading": 355,
-   "lastStatus": "MOORED"
   },
   {
    "mmsi": 374260000,
