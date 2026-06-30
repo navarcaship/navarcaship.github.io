@@ -184,3 +184,37 @@
 {"ts":"2026-06-29T10:57:38.058Z","mmsi":620999710,"name":"HAMOON","imo":8984903,"flag":"🇰🇲","lat":25.3056,"lon":55.3335,"sog":0,"heading":null,"status":""}
 {"ts":"2026-06-29T10:57:38.058Z","mmsi":636010647,"name":"UMM AL ASHTAN","imo":9074652,"flag":"🇱🇷","lat":26.0671,"lon":55.8899,"sog":2.6,"heading":62,"status":"UNDERWAY"}
 {"ts":"2026-06-29T10:57:38.058Z","mmsi":248311000,"name":"INDIGO STAR 1","imo":8979142,"flag":"🇲🇹","lat":25.2882,"lon":55.2908,"sog":0,"heading":78,"status":"MOORED"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":470268000,"name":"KHAYRAT","imo":1068372,"flag":"🇦🇪","lat":24.6862,"lon":53.8481,"sog":5.7,"heading":270,"status":"UNDERWAY"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":374667000,"name":"PILI PILI 4503","imo":9776298,"flag":"🇵🇦","lat":24.7654,"lon":53.7392,"sog":0,"heading":36,"status":"MOORED"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":574005360,"name":"HAI DUONG 55","imo":9552628,"flag":"🇻🇳","lat":24.7044,"lon":53.8453,"sog":0.9,"heading":12,"status":"RESTRICTED"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":376823000,"name":"OCEAN TRANSPORTER","imo":9649380,"flag":"🇻🇨","lat":24.7174,"lon":53.7991,"sog":5.6,"heading":38,"status":"SAILING"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":470941000,"name":"RAZAN 1","imo":9717802,"flag":"🇦🇪","lat":24.6874,"lon":53.9587,"sog":5.6,"heading":73,"status":"UNDERWAY"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":470168000,"name":"MARCAP 202","imo":9665255,"flag":"🇦🇪","lat":24.7789,"lon":53.8004,"sog":0.9,"heading":8,"status":"UNDERWAY"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":470019000,"name":"ADNOC 227","imo":9725196,"flag":"🇦🇪","lat":24.4841,"lon":54.0827,"sog":0,"heading":314,"status":"UNDERWAY"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":566446000,"name":"GFS GENESIS","imo":9704659,"flag":"🇸🇬","lat":24.8016,"lon":54.648,"sog":0,"heading":140,"status":"MOORED"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":377311000,"name":"GFS JADE","imo":9187863,"flag":"🇻🇨","lat":24.8161,"lon":54.6621,"sog":0,"heading":231,"status":"UNDERWAY"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":525015220,"name":"SEA MILAN","imo":9096521,"flag":"🇮🇩","lat":24.8032,"lon":53.8833,"sog":0,"heading":null,"status":""}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":470622000,"name":"ALJABER 51","imo":9502556,"flag":"🇦🇪","lat":24.7592,"lon":54.2756,"sog":6.2,"heading":null,"status":"RESTRICTED"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":470475000,"name":"MUTAWA 306","imo":9803194,"flag":"🇦🇪","lat":24.5168,"lon":54.026,"sog":0,"heading":220,"status":"UNDERWAY"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":352005223,"name":"SEBIE","imo":1095521,"flag":"🇵🇦","lat":24.8872,"lon":54.1869,"sog":5.4,"heading":291,"status":"UNDERWAY"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":352257000,"name":"QMS AL BAHIA","imo":9828041,"flag":"🇵🇦","lat":24.8586,"lon":53.7609,"sog":0,"heading":41,"status":"RESTRICTED"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":470614000,"name":"MUTAWA 104","imo":9783265,"flag":"🇦🇪","lat":24.8793,"lon":53.8687,"sog":10.1,"heading":126,"status":"SAILING"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":471888000,"name":"AL MARMAR","imo":9698513,"flag":"🇦🇪","lat":24.5417,"lon":54.1393,"sog":0,"heading":null,"status":""}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":470311000,"name":"DAS-1","imo":9817432,"flag":"🇦🇪","lat":24.7963,"lon":54.6525,"sog":0,"heading":null,"status":""}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":636025085,"name":"SALFORD 20","imo":9568952,"flag":"🇱🇷","lat":25.4963,"lon":55.4229,"sog":0,"heading":287,"status":"RESTRICTED"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":636026265,"name":"ECUADOR PROSPERITY","imo":9315147,"flag":"🇱🇷","lat":26.0036,"lon":55.237,"sog":6.2,"heading":274,"status":"UNDERWAY"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":636015377,"name":"SD ODYSSEY","imo":9623300,"flag":"🇱🇷","lat":25.4704,"lon":55.4994,"sog":0,"heading":null,"status":"SAILING"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":620999554,"name":"SEA SERV 501","imo":7366427,"flag":"🇰🇲","lat":25.4417,"lon":55.2372,"sog":0.2,"heading":null,"status":"UNDERWAY"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":341787001,"name":"ALMAHER","imo":8515128,"flag":"🇰🇳","lat":25.4792,"lon":55.2914,"sog":0.1,"heading":null,"status":"AT ANCHOR"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":341517002,"name":"B STAR 1","imo":9499216,"flag":"🇰🇳","lat":25.4083,"lon":55.2017,"sog":0,"heading":267,"status":"AT ANCHOR"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":620999195,"name":"S VENUS","imo":9414175,"flag":"🇰🇲","lat":25.369,"lon":55.3852,"sog":0,"heading":null,"status":""}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":306401000,"name":"EGS","imo":7707243,"flag":"🇳🇱","lat":25.452,"lon":55.2357,"sog":0.1,"heading":null,"status":"UNDERWAY"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":620999568,"name":"SEA WIND 1","imo":7304405,"flag":"🇰🇲","lat":25.4523,"lon":55.2623,"sog":0.4,"heading":null,"status":"AT ANCHOR"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":257933000,"name":"BELRAY","imo":9873266,"flag":"🇳🇴","lat":25.3671,"lon":55.3752,"sog":0,"heading":59,"status":"MOORED"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":422405300,"name":"AMIR BANDAR","imo":9506370,"flag":"🇮🇷","lat":25.4204,"lon":55.2638,"sog":6.4,"heading":null,"status":""}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":255721000,"name":"LIVERPOOL STRAIT","imo":9609718,"flag":"🇵🇹","lat":25.6921,"lon":55.2053,"sog":0.1,"heading":323,"status":"AT ANCHOR"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":636021546,"name":"AL BAHYAH","imo":9937799,"flag":"🇱🇷","lat":25.7209,"lon":55.1372,"sog":12,"heading":68,"status":"UNDERWAY"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":626224000,"name":"MADHAVA","imo":9466623,"flag":"🇬🇦","lat":25.4834,"lon":55.2623,"sog":0.2,"heading":264,"status":"AT ANCHOR"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":671445100,"name":"MT OCEAN LILY","imo":1068877,"flag":"🇹🇬","lat":25.5424,"lon":55.349,"sog":0,"heading":278,"status":"AT ANCHOR"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":212851000,"name":"DUBAI VENTURE","imo":9202259,"flag":"🇨🇾","lat":25.4261,"lon":55.3005,"sog":0,"heading":280,"status":"AT ANCHOR"}
+{"ts":"2026-06-30T09:33:51.119Z","mmsi":353837000,"name":"YE LIN","imo":9290701,"flag":"🇵🇦","lat":25.542,"lon":55.2744,"sog":0,"heading":191,"status":"UNDERWAY"}
