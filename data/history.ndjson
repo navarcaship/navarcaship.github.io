@@ -268,3 +268,99 @@
 {"ts":"2026-07-01T09:43:20.066Z","mmsi":305010400,"name":"ASHLEY","imo":9258466,"flag":"🇦🇬","lat":25.4817,"lon":55.2369,"sog":0,"heading":311,"status":"AT ANCHOR"}
 {"ts":"2026-07-01T09:43:20.066Z","mmsi":538012177,"name":"WELL SAIL","imo":9321938,"flag":"🇲🇭","lat":25.5409,"lon":55.3349,"sog":0,"heading":290,"status":"AT ANCHOR"}
 {"ts":"2026-07-01T09:43:20.066Z","mmsi":636024184,"name":"TB JINJIANG","imo":9143116,"flag":"🇱🇷","lat":25.4671,"lon":55.2276,"sog":0,"heading":304,"status":"AT ANCHOR"}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470101000,"name":"AL JUBAIL","imo":9689718,"flag":"🇦🇪","lat":24.3136,"lon":54.4652,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":373986000,"name":"CCC MARITIME1","imo":9673159,"flag":"🇵🇦","lat":24.8391,"lon":53.6378,"sog":0.4000000059604645,"heading":123,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470162000,"name":"MARWAH 1","imo":9785304,"flag":"🇦🇪","lat":24.8751,"lon":53.2675,"sog":4.5,"heading":321,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470919000,"name":"ANOOD","imo":9659165,"flag":"🇦🇪","lat":24.4864,"lon":54.3225,"sog":2.5999999046325684,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":375355000,"name":"ZAKHER DOLPHIN","imo":9387475,"flag":"🇻🇨","lat":24.6921,"lon":53.8942,"sog":5.099999904632568,"heading":83,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470952000,"name":"MUTAWA 101","imo":9442940,"flag":"🇦🇪","lat":24.9496,"lon":53.4234,"sog":6.900000095367432,"heading":301,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":352005072,"name":"LCT MAYAN","imo":9948190,"flag":"🇵🇦","lat":24.3866,"lon":53.3453,"sog":6.199999809265137,"heading":316,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":538011534,"name":"SAFEEN JOUN","imo":1103938,"flag":"🇲🇭","lat":24.9011,"lon":53.0654,"sog":0,"heading":180,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470444000,"name":"NAGWA 1","imo":9850264,"flag":"🇦🇪","lat":24.5525,"lon":54.6271,"sog":0.5,"heading":333,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470729000,"name":"NORAH-1","imo":9895123,"flag":"🇦🇪","lat":24.8825,"lon":53.1718,"sog":5.900000095367432,"heading":290,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":563257100,"name":"NAVIG8 MACALLISTER","imo":9482873,"flag":"🇸🇬","lat":24.4266,"lon":52.504,"sog":0,"heading":275,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470986000,"name":"SARWAN","imo":9488669,"flag":"🇦🇪","lat":24.4977,"lon":54.4307,"sog":0.20000000298023224,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470154000,"name":"TAWAM 1","imo":9756420,"flag":"🇦🇪","lat":24.4362,"lon":53.612,"sog":0.6000000238418579,"heading":145,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470984000,"name":"RAMASI","imo":9488671,"flag":"🇦🇪","lat":24.5834,"lon":54.4814,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470286000,"name":"T3","imo":8759035,"flag":"🇦🇪","lat":24.4976,"lon":54.431,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":376453000,"name":"SEA PRINCESS","imo":9628025,"flag":"🇻🇨","lat":24.8835,"lon":53.588,"sog":0.800000011920929,"heading":9,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470114000,"name":"SEP 550","imo":9681429,"flag":"🇦🇪","lat":24.8761,"lon":53.5898,"sog":0,"heading":228,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":471201000,"name":"ESHRAQ","imo":1075193,"flag":"🇦🇪","lat":24.4121,"lon":54.3135,"sog":7,"heading":114,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":563242300,"name":"CREST SPARTAN 1","imo":9568940,"flag":"🇸🇬","lat":24.6967,"lon":53.7341,"sog":1.600000023841858,"heading":281,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":246885000,"name":"COASTAL VOYAGER","imo":9660322,"flag":"🇳🇱","lat":24.1366,"lon":52.7845,"sog":0,"heading":147,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470696000,"name":"ZAKHIR","imo":9772187,"flag":"🇦🇪","lat":24.529,"lon":54.3785,"sog":0,"heading":300,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470047000,"name":"ADNOC F-01","imo":9778739,"flag":"🇦🇪","lat":24.6766,"lon":53.6067,"sog":13.300000190734863,"heading":86,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":375136000,"name":"ZAKHER EAGLE","imo":9488463,"flag":"🇻🇨","lat":24.8777,"lon":53.6736,"sog":0.4000000059604645,"heading":346,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":319302200,"name":"CONNECTED","imo":1090959,"flag":"🇰🇾","lat":24.4655,"lon":54.6064,"sog":0,"heading":32,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470000887,"name":"P 9","imo":null,"flag":"🇦🇪","lat":24.727,"lon":54.5649,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":471479000,"name":"BASITH","imo":1045837,"flag":"🇦🇪","lat":24.5006,"lon":52.9658,"sog":8.5,"heading":201,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":375217000,"name":"ZAKHER AMAZON","imo":9582219,"flag":"🇻🇨","lat":24.5081,"lon":52.9843,"sog":0.20000000298023224,"heading":350,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":636025055,"name":"ASTRO REGULUS","imo":9350525,"flag":"🇱🇷","lat":24.523,"lon":52.8965,"sog":0,"heading":225,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":511101592,"name":"SALFORD 10","imo":9506679,"flag":"🇵🇼","lat":24.9041,"lon":53.7229,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":325742000,"name":"SUNNY A","imo":9523902,"flag":"🇩🇲","lat":24.6775,"lon":53.4995,"sog":5.5,"heading":278,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470974000,"name":"ADNOC C03","imo":9971305,"flag":"🇦🇪","lat":24.4608,"lon":53.1049,"sog":17.399999618530273,"heading":77,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":376116000,"name":"VENTORIA","imo":9477660,"flag":"🇻🇨","lat":24.3143,"lon":54.4816,"sog":0,"heading":175,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470152000,"name":"ADNOC MP02","imo":9754329,"flag":"🇦🇪","lat":24.8772,"lon":53.6255,"sog":0,"heading":119,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":352005223,"name":"SEBIE","imo":1095521,"flag":"🇵🇦","lat":24.9425,"lon":53.6531,"sog":6.099999904632568,"heading":342,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470879000,"name":"AL JABER 72","imo":9615597,"flag":"🇦🇪","lat":24.3852,"lon":54.5103,"sog":4,"heading":274,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":352005430,"name":"HEA TITAN","imo":9803170,"flag":"🇵🇦","lat":24.8296,"lon":54.2631,"sog":0,"heading":59,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470029000,"name":"ADNOC 229","imo":9725201,"flag":"🇦🇪","lat":24.9569,"lon":53.8729,"sog":4.699999809265137,"heading":320,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470915000,"name":"GAFF","imo":1038755,"flag":"🇦🇪","lat":24.8542,"lon":53.1029,"sog":0.699999988079071,"heading":309,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":352003151,"name":"EXPRESS 99","imo":9921647,"flag":"🇵🇦","lat":24.84,"lon":53.6068,"sog":0.800000011920929,"heading":88,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470457000,"name":"ADNOC 250","imo":9612832,"flag":"🇦🇪","lat":24.7776,"lon":53.6025,"sog":0.10000000149011612,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470141000,"name":"TARGET STAR","imo":9695779,"flag":"🇦🇪","lat":24.7621,"lon":53.8425,"sog":0,"heading":313,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":671434100,"name":"QSA H13","imo":9776482,"flag":"🇹🇬","lat":24.4928,"lon":54.4634,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470102344,"name":"AL SADIYAT 19","imo":null,"flag":"🇦🇪","lat":24.6125,"lon":54.4779,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470375000,"name":"ADNOC 1011","imo":9628506,"flag":"🇦🇪","lat":24.5593,"lon":52.8989,"sog":4.099999904632568,"heading":16,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":376909000,"name":"ADNOC S08","imo":9743708,"flag":"🇻🇨","lat":24.9919,"lon":52.9546,"sog":0.10000000149011612,"heading":105,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":471420000,"name":"P&O GAYNDE","imo":9974785,"flag":"🇦🇪","lat":24.4745,"lon":53.2105,"sog":4.400000095367432,"heading":107,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":371921000,"name":"MCS LEVANTO","imo":9679086,"flag":"🇵🇦","lat":24.7048,"lon":54.6497,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470510000,"name":"ADNOC 851","imo":9475894,"flag":"🇦🇪","lat":24.6783,"lon":53.9616,"sog":5.300000190734863,"heading":83,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470642000,"name":"NPCC YAS","imo":9554779,"flag":"🇦🇪","lat":24.8243,"lon":53.5995,"sog":0.5,"heading":295,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":341787001,"name":"ALMAHER","imo":8515128,"flag":"🇰🇳","lat":25.4788,"lon":55.2915,"sog":0.20000000298023224,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":341224002,"name":"RUDRA SHAKTHI","imo":8541622,"flag":"🇰🇳","lat":25.4653,"lon":55.5083,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":620999634,"name":"SETARE SAHEL","imo":1015105,"flag":"🇰🇲","lat":25.3463,"lon":55.2354,"sog":0.20000000298023224,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":351551000,"name":"GEM NO.5","imo":9793741,"flag":"🇵🇦","lat":25.7599,"lon":55.4754,"sog":0.20000000298023224,"heading":294,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":511101399,"name":"SARA J","imo":9438200,"flag":"🇵🇼","lat":26.2949,"lon":56.1466,"sog":0.5,"heading":62,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470936000,"name":"CARP ANN","imo":null,"flag":"🇦🇪","lat":25.2101,"lon":55.3502,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":572845220,"name":"ASTRO CANOPUS","imo":9573971,"flag":"🇹🇻","lat":25.8789,"lon":55.6303,"sog":2.0999999046325684,"heading":250,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":671441100,"name":"EARTH","imo":1062299,"flag":"🇹🇬","lat":25.8161,"lon":55.1192,"sog":7.800000190734863,"heading":167,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":620800367,"name":"TRONE","imo":9326067,"flag":"🇰🇲","lat":25.7528,"lon":56.9647,"sog":0,"heading":141,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":341028000,"name":"ALMA NOVA","imo":9257486,"flag":"🇰🇳","lat":26.3,"lon":56.2333,"sog":0,"heading":49,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":354264000,"name":"GEM NO.2","imo":9735373,"flag":"🇵🇦","lat":25.8071,"lon":55.5872,"sog":0,"heading":259,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":305016400,"name":"MAHA JACQUELINE","imo":9185073,"flag":"🇦🇬","lat":25.4976,"lon":55.2284,"sog":0.10000000149011612,"heading":342,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470347000,"name":"ZAYA DIAMOND","imo":9427861,"flag":"🇦🇪","lat":25.3106,"lon":55.2908,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":563036800,"name":"SL AL KOUT","imo":9532305,"flag":"🇸🇬","lat":25.4674,"lon":55.4828,"sog":0,"heading":302,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":538012627,"name":"S MONARCH","imo":null,"flag":"🇲🇭","lat":25.3702,"lon":56.4962,"sog":0,"heading":122,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470439000,"name":"GOVINDA","imo":8309048,"flag":"🇦🇪","lat":25.3749,"lon":55.3695,"sog":5.699999809265137,"heading":142,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":565339000,"name":"LANPAN 6","imo":9412555,"flag":"🇸🇬","lat":25.72,"lon":55.8014,"sog":3.5,"heading":203,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":471031000,"name":"HAWK 1","imo":9605578,"flag":"🇦🇪","lat":25.9584,"lon":56.0552,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":636019401,"name":"QUEEN WIN","imo":9519303,"flag":"🇱🇷","lat":25.1521,"lon":56.7202,"sog":0.5,"heading":28,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":352004383,"name":"CHI QIANG CHENG XING","imo":1028475,"flag":"🇵🇦","lat":25.3609,"lon":55.3684,"sog":0,"heading":121,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":352002853,"name":"GAZ GMS","imo":9131539,"flag":"🇵🇦","lat":25.9829,"lon":55.6072,"sog":12.399999618530273,"heading":52,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":629009484,"name":"BILI","imo":9285756,"flag":"🇬🇲","lat":25.8534,"lon":56.9417,"sog":0.10000000149011612,"heading":97,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":422540000,"name":"HAKIM KHAMIR","imo":9365099,"flag":"🇮🇷","lat":25.378,"lon":55.283,"sog":8,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":357285000,"name":"MERCURY HOPE","imo":9395290,"flag":"🇵🇦","lat":26.1049,"lon":55.8464,"sog":0.10000000149011612,"heading":52,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":352004909,"name":"PURITY","imo":9325348,"flag":"🇵🇦","lat":25.0919,"lon":56.585,"sog":9.100000381469727,"heading":128,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":636023259,"name":"ANNA-THERESA","imo":9497842,"flag":"🇱🇷","lat":26.1907,"lon":55.8913,"sog":1,"heading":128,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":314467000,"name":"MIENA DESGAGNES","imo":9700380,"flag":"🇧🇧","lat":25.909,"lon":55.7592,"sog":7.300000190734863,"heading":66,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":511101945,"name":"OCEAN WAVE","imo":9387152,"flag":"🇵🇼","lat":25.5338,"lon":55.3902,"sog":3.4000000953674316,"heading":275,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":471208000,"name":"AL BAHAR 6","imo":8873221,"flag":"🇦🇪","lat":25.9751,"lon":56.0473,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":671154100,"name":"SEA SUCCESS","imo":8997132,"flag":"🇹🇬","lat":25.4141,"lon":55.295,"sog":0.10000000149011612,"heading":276,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":244824000,"name":"COASTAL ROAMER","imo":9688893,"flag":"🇳🇱","lat":25.4691,"lon":55.5029,"sog":0.699999988079071,"heading":230,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":538012068,"name":"ATARAKTOS","imo":1052880,"flag":"🇲🇭","lat":26.0226,"lon":55.8159,"sog":0.10000000149011612,"heading":30,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":636026459,"name":"DOMINICA PROSPERITY","imo":9395496,"flag":"🇱🇷","lat":25.9985,"lon":55.9396,"sog":13.100000381469727,"heading":237,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":636019926,"name":"CLEAROCEAN MUSTANG","imo":9893761,"flag":"🇱🇷","lat":25.2435,"lon":56.4638,"sog":0,"heading":118,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":636022462,"name":"AMANI","imo":9729910,"flag":"🇱🇷","lat":25.4616,"lon":55.315,"sog":0,"heading":288,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":620999444,"name":"JYANE2","imo":9770452,"flag":"🇰🇲","lat":25.3244,"lon":55.3328,"sog":7.699999809265137,"heading":184,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":671445100,"name":"MT OCEAN LILY","imo":1068877,"flag":"🇹🇬","lat":25.5426,"lon":55.349,"sog":0.10000000149011612,"heading":255,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":636026083,"name":"DESIMI","imo":9395305,"flag":"🇱🇷","lat":25.1629,"lon":56.5561,"sog":0.10000000149011612,"heading":84,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":620999374,"name":"YEKTA 5","imo":9179294,"flag":"🇰🇲","lat":25.9891,"lon":55.4117,"sog":5.699999809265137,"heading":235,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":636020892,"name":"AL FALAH","imo":9828388,"flag":"🇱🇷","lat":26.3262,"lon":56.2048,"sog":6.300000190734863,"heading":45,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":620999812,"name":"SAMIA 2","imo":1084754,"flag":"🇰🇲","lat":25.3049,"lon":55.3337,"sog":0,"heading":220,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":352004759,"name":"SWAN LAKE","imo":9442017,"flag":"🇵🇦","lat":25.1684,"lon":56.5146,"sog":0,"heading":80,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":352004910,"name":"KNK ADIRAA","imo":1050698,"flag":"🇵🇦","lat":25.3716,"lon":55.3829,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":470722000,"name":"KANOO 42","imo":9518866,"flag":"🇦🇪","lat":25.1623,"lon":56.3613,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":620800481,"name":"DIB","imo":null,"flag":"🇰🇲","lat":25.5208,"lon":55.3774,"sog":0.10000000149011612,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":351978000,"name":"AMAL 6","imo":8655021,"flag":"🇵🇦","lat":25.4015,"lon":55.2936,"sog":0,"heading":null,"status":""}
+{"ts":"2026-07-02T08:54:20.768Z","mmsi":538009113,"name":"ALIKI PERROTIS","imo":9715799,"flag":"🇲🇭","lat":25.4914,"lon":55.2782,"sog":0.10000000149011612,"heading":null,"status":""}
